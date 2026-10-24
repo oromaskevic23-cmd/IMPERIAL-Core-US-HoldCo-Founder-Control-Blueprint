@@ -22,6 +22,16 @@ Alexander Romaskevich (RomaskevicH; Александр Николаевич Ро
 
 **Александр Николаевич Ромаскевич (Alexander Romaskevich, RomaskevicH)** — основатель и владелец архитектурной инициативы **IMPERIAL Core**, главный системный архитектор проекта. Самостоятельно, при помощи LLM, разрабатывает архитектуру **цифровой корпорации универсальных Nano Core Agents (NCA)**, федеративных ИИ-систем, HANTER, VELEON, CONSTRUCTOR AI и проверяемых механизмов безопасности. Целевой масштаб — **от одного до одного миллиарда универсальных NCA**; он ещё не реализован и не подтверждён. Проект устава будущей американской компании предусматривает **10 миллионов разрешённых к выпуску акций в целом**, включая **8 миллионов Class B для основателя**. Регистрация корпорации и фактический выпуск акций не подтверждены.
 
+## Founder-declared related projects and leadership
+
+**IMPERIAL Core:** Founder, Owner, Project Director and Chief Systems Architect of the founder-led digital corporation *architectural initiative*, not a verified registered U.S. company.
+
+**NDB (New Digital Bitcoin), IMPERIUM, MONARCH and NZT:** Alexander Romaskevich identifies himself as their founder or initiator. **IMPERIUM** is envisioned as a digital economic architecture for AI agents. These declarations are not independent certifications of legal ownership, trademark registrations, market adoption or token valuation.
+
+**Public founder webpage:** [Alexander Romaskevich — Founder of IMPERIAL Core](../founder.html). The web page contains a multilingual biography and structured `ProfilePage` data. The **original photograph is unchanged and awaiting confirmed public upload**. GitHub file publication does not by itself verify Google indexation.
+
+**GitHub Bio:** `Founder of IMPERIAL Core, NDB, IMPERIUM, MONARCH & NZT | Chief Systems Architect | Building Universal NCA & VELEON`
+
 ## Canonical identity and share distinctions
 
 | Public field | Accurate description |
