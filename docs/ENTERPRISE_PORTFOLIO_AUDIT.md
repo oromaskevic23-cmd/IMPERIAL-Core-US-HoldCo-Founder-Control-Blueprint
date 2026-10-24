@@ -1,5 +1,9 @@
 # IMPERIAL Core — Verified GitHub Enterprise Portfolio Audit
 
+> **Historical audit snapshot notice (2026-10-24):** The inventory below predates the subsequent CONSTRUCTOR AI code, tests and verified CI runs. For its current E2/E3 reference status and the repo-cleanup inventory (16 docs-only, 7 structured/source, zero fully empty), see [the updated repository cleanup register](GITHUB_CLEANUP_REGISTER_2026-10-24.md). The original audit findings below remain as their historical checkpoint, not a current product readiness claim.
+
+
+
 **Audit date:** 2026-10-24  
 **GitHub account:** `oromaskevic23-cmd`  
 **Accessible scope:** 23 repositories, all on their default `main` branch  

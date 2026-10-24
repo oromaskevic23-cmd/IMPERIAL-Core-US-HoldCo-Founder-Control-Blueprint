@@ -18,7 +18,8 @@ Read the [Universal NCA corporation specification](docs/UNIVERSAL_NCA_CORPORATIO
 
 ## Architect Enterprise & Invention Provenance
 
-- [Enterprise portfolio readiness — 23 repositories](docs/ENTERPRISE_PORTFOLIO_AUDIT.md) — observed E0/E1/E2 status, upstream fork provenance, security and release requirements.
+- [**Current GitHub cleanup register — 23 repositories**](docs/GITHUB_CLEANUP_REGISTER_2026-10-24.md) — 16 documentation-only, 7 structured/source, no truly empty repositories; protected consolidation with accurate CONSTRUCTOR AI CI evidence.
+- [Historical Enterprise portfolio readiness — 23 repositories](docs/ENTERPRISE_PORTFOLIO_AUDIT.md) — observed E0/E1/E2 status, upstream fork provenance, security and release requirements.
 - [Public Digital Invention Passport (IC-DIP-001)](docs/PUBLIC_DIGITAL_INVENTION_NOTICE.md) — founder architectural attribution with explicit patent and confidentiality boundaries.
 
 **“Patent in code” is a technical evidence-record concept, not a filed or issued patent.** Keep patent-sensitive enabling documentation private before counsel review.
