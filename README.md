@@ -29,6 +29,7 @@ Read the [Universal NCA corporation specification](docs/UNIVERSAL_NCA_CORPORATIO
 **Alexander Romaskevich · Александр Николаевич Ромаскевич · RomaskevicH** is the founder and owner of the **IMPERIAL Core architectural initiative** and its Chief Systems Architect.
 
 - [Founder biography and canonical public identity](docs/FOUNDER_PROFILE.md) — English, Ukrainian and Russian.
+- [**Founder shares — executable cap-table scenarios and legal execution gates**](docs/SHARE_ISSUANCE_READINESS.md) — scenario calculator, 12 unit tests, dilution/voting analysis and required legal evidence; **not stock issuance**.
 - [Proposed corporate structure and subsidiaries](docs/CORPORATE_STRUCTURE.md) — legal boundaries and formation gates.
 - [Founder-facing public web page source](founder.html) — accessible HTML with `ProfilePage` / `Person` structured data.
 - [Project web landing page source](index.html) — static, mobile-readable overview. **GitHub Pages deployment is not verified here.**
@@ -41,6 +42,7 @@ Read the [Universal NCA corporation specification](docs/UNIVERSAL_NCA_CORPORATIO
 | Document | Coverage | Status |
 |---|---|---|
 | [ARCHITECTURE.md](ARCHITECTURE.md) | Federated AI ecosystem, component diagram, execution protocol and evidence tiers | v1.1 · Proposed |
+| [SHARE_ISSUANCE_READINESS.md](docs/SHARE_ISSUANCE_READINESS.md) | Executable hypothetical cap table, tax warning and legal issuance checklist | v1.0 · No real issuance |
 | [US_HOLDCO_EQUITY.md](docs/US_HOLDCO_EQUITY.md) | Delaware founder-control model, 10 million proposed shares, legal/tax checklist | v1.0 · Counsel review |
 | [GOVERNANCE.md](docs/GOVERNANCE.md) | Human authority, mission approvals, Zero Trust, audit and legal boundaries | v1.0 · Proposed |
 | [CORPORATE_STRUCTURE.md](docs/CORPORATE_STRUCTURE.md) | Proposed parent, legal boundaries, future subsidiaries and entity formation gates | v1.0 · Counsel review |
