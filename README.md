@@ -16,6 +16,13 @@
 
 Read the [Universal NCA corporation specification](docs/UNIVERSAL_NCA_CORPORATION.md).
 
+## Architect Enterprise & Invention Provenance
+
+- [Enterprise portfolio readiness — 23 repositories](docs/ENTERPRISE_PORTFOLIO_AUDIT.md) — observed E0/E1/E2 status, upstream fork provenance, security and release requirements.
+- [Public Digital Invention Passport (IC-DIP-001)](docs/PUBLIC_DIGITAL_INVENTION_NOTICE.md) — founder architectural attribution with explicit patent and confidentiality boundaries.
+
+**“Patent in code” is a technical evidence-record concept, not a filed or issued patent.** Keep patent-sensitive enabling documentation private before counsel review.
+
 ## Founder and public authorship
 
 **Alexander Romaskevich · Александр Николаевич Ромаскевич · RomaskevicH** is the founder and owner of the **IMPERIAL Core architectural initiative** and its Chief Systems Architect.
