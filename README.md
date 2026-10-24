@@ -476,3 +476,488 @@ Release gate: only Alexander Romaskevich may approve architectural changes in th
 ────────
 
 Recommended architectural decision for review: Delaware C-Corporation, 10,000,000 authorized common shares = 8m Class B high-vote + 2m Class A ordinary; 8m B offered to the founder only after proper incorporation and issuance approvals; 1m A planned for future team incentive equity, 1m A held for potential financing; all shares presently merely proposed and unissued. No action has been executed.
+IMPERIAL CORE
+
+CANONICAL ENTERPRISE ARCHITECTURE BLUEPRINT
+
+Version: 1.1 — Proposed Architecture
+Date: 2026-10-24
+Founder: Alexander Romaskevich
+Signature: RomaskevicH
+Authority: Founder • Owner • CEO • Chief Systems Architect
+Architectural Status: PROPOSED / ARCHITECTURE BEFORE IMPLEMENTATION
+Implementation Status: Independent verification required
+
+⸻
+
+I. ARCHITECTURAL CONSTITUTION
+
+IMPERIAL Core is a long-term architectural vision for an AI-native enterprise ecosystem composed of federated orchestrators, professional AI agents, specialized intelligence systems, independent runtime domains, enterprise applications, verification infrastructure and governed digital economic services.
+
+Core Principles
+
+* Architecture Before Implementation
+* Federated Multi-Orchestrator Architecture
+* No Single Global Orchestrator
+* Owner-Controlled Architectural Governance
+* Independent Runtime Domains
+* Zero Trust / Deny by Default / Fail Closed
+* Identity ≠ Authority
+* Capability ≠ Approval
+* Intelligence ≠ Privilege
+* Human Protection by Design
+* Evidence Before Claims
+* Public / Private Boundary
+* CRYPTO IMPERIAL Ecosystem Boundary
+
+No system component may independently acquire unlimited control of the ecosystem.
+
+⸻
+
+II. ENTERPRISE SYSTEM MAP
+
+flowchart TB
+    OWNER["👑 ARCHITECT AUTHORITY<br/>Alexander Romaskevich"]
+    HANTER["🧠 HANTER<br/>AI Command Center"]
+    VELEON["🧠 VELEON<br/>Intelligence Core"]
+    AGI["🧬 IMPERIAL AGI<br/>Reasoning & Verification"]
+    FED["🌐 FEDERATED COORDINATION"]
+    OA["Orchestrator A"]
+    OB["Orchestrator B"]
+    OC["Orchestrator C"]
+    OD["Dynamic Orchestrators"]
+    RA["Runtime Domain A"]
+    RB["Runtime Domain B"]
+    RC["Runtime Domain C"]
+    NCA["🤖 NANO CORE AGENTS"]
+    SKILLS["🧩 ENTERPRISE IMPERIAL SKILLS"]
+    PASSPORT["🪪 AI PASSPORT"]
+    GUARDIAN["🛡️ GUARDIAN CORE"]
+    APPROVAL["🔐 APPROVAL GATEWAY"]
+    PERMIT["SIGNED AGENT PERMIT"]
+    TETRIS["🛡️ TETRIS"]
+    ISMG["🚪 ISMG"]
+    TOOLS["TOOLS & SERVICES"]
+    VERIFY["🔬 VERIFICATION"]
+    PROOF["PROOFGRAPH / PROOF PASSPORT"]
+    LEDGER["AUDIT LEDGER"]
+    OWNER --> HANTER
+    HANTER <--> VELEON
+    VELEON <--> AGI
+    HANTER --> FED
+    FED --> OA
+    FED --> OB
+    FED --> OC
+    FED --> OD
+    OA --> RA
+    OB --> RB
+    OC --> RC
+    RA --> NCA
+    RB --> NCA
+    RC --> NCA
+    NCA --> PASSPORT
+    PASSPORT --> GUARDIAN
+    GUARDIAN --> APPROVAL
+    APPROVAL --> PERMIT
+    PERMIT --> TETRIS
+    TETRIS --> SKILLS
+    SKILLS --> ISMG
+    ISMG --> TOOLS
+    TOOLS --> VERIFY
+    VERIFY --> PROOF
+    PROOF --> LEDGER
+
+Diagram semantics: The arrows represent conceptual dependencies and authorized workflow, not unrestricted direct access. The shared nodes represent logical services deployed through domain-scoped instances or interfaces.
+
+HANTER coordinates missions and interacts with the Architect. It is not a universal runtime orchestrator. Every orchestrator remains subject to domain boundaries, delegated permissions and governance controls.
+
+⸻
+
+III. CANONICAL COMPONENT STRUCTURE
+
+IMPERIAL CORE
+│
+├── 01. 👑 ARCHITECT AUTHORITY
+│   └── Alexander Romaskevich
+│       ├── Founder
+│       ├── Owner
+│       ├── CEO
+│       ├── Chief Systems Architect
+│       └── Final Architectural Authority
+│
+├── 02. 🧠 HANTER
+│   ├── AI Command Center
+│   ├── Deputy to the Architect
+│   ├── Executive Kernel
+│   ├── Mission Intelligence
+│   ├── Planning & Delegation
+│   ├── Federated Coordination
+│   ├── Evidence Aggregation
+│   └── Architect Interface
+│
+├── 03. 🧠 VELEON
+│   ├── Intelligence Core
+│   ├── Strategic Reasoning
+│   ├── Cognitive Analysis
+│   ├── Decision Support
+│   ├── Long-Horizon Planning
+│   ├── Specialized Intelligence Modes
+│   └── Evidence-Based Recommendations
+│
+├── 04. 🌐 FEDERATED ORCHESTRATION
+│   ├── Orchestrator A → Runtime Domain A
+│   ├── Orchestrator B → Runtime Domain B
+│   ├── Orchestrator C → Runtime Domain C
+│   ├── Dynamic Orchestrator Registration
+│   ├── Cross-Domain Mission Contracts
+│   ├── Delegation & Revocation
+│   └── NO SINGLE GLOBAL ORCHESTRATOR
+│
+├── 05. 🤖 NANO CORE AGENTS
+│   ├── Dynamic Agent Provisioning
+│   ├── Professional Teams
+│   ├── Engineering Agents
+│   ├── Research Agents
+│   ├── Security Agents
+│   ├── Business Agents
+│   ├── Financial Agents
+│   ├── Operational Agents
+│   └── Domain-Specific Specialists
+│
+├── 06. 🪪 AI PASSPORT
+│   ├── Cryptographic Identity
+│   ├── Agent ID & Role Binding
+│   ├── Runtime Domain Binding
+│   ├── Capability Scope
+│   ├── Trust State
+│   ├── Policy Version
+│   └── Identity Revocation
+│
+├── 07. 🧩 ENTERPRISE IMPERIAL SKILLS
+│   ├── Engineering Skills
+│   ├── Research Skills
+│   ├── Security Skills
+│   ├── Infrastructure Skills
+│   ├── Business Skills
+│   ├── Finance Skills
+│   ├── Signed Skill Packages
+│   └── Specialized Capabilities
+│
+├── 08. 🔐 INTENTLOCK
+│   ├── Mission Scope
+│   ├── Requirement Integrity
+│   ├── Authorized Boundaries
+│   ├── Constraint Binding
+│   └── Unauthorized Scope-Change Rejection
+│
+├── 09. 🛡️ SECURITY & GOVERNANCE
+│   ├── Guardian Core
+│   ├── Approval Gateway
+│   ├── Signed Agent Permit
+│   ├── Zero Trust
+│   ├── Deny by Default
+│   ├── Fail Closed
+│   ├── Owner Kill Switch
+│   ├── Secret Isolation
+│   ├── Tool Execution Firewall
+│   └── Agent Behavior Firewall
+│
+├── 10. 🧱 RUNTIME DOMAINS
+│   ├── Independent Execution Boundaries
+│   ├── Local Policies
+│   ├── Local Capabilities
+│   ├── Resource Quotas
+│   ├── Secret Boundaries
+│   ├── Agent Clusters
+│   └── Authorized Cross-Domain Communication
+│
+├── 11. 🧬 IMPERIAL AGI
+│   ├── Reasoner
+│   ├── Critic
+│   ├── Verifier
+│   ├── Long-Horizon Reasoning
+│   ├── Evidence Lineage
+│   └── Recommendation Layer
+│
+├── 12. 🚪 ISMG
+│   └── IMPERIAL Sovereign Model Gateway
+│       ├── Model Registry
+│       ├── Provider Registry
+│       ├── Capability Registry
+│       ├── AI Passport Validation
+│       ├── Sovereign Routing
+│       ├── Budget Controls
+│       ├── Secret Broker
+│       ├── Audit Adapter
+│       └── Kill Switch
+│
+├── 13. 🛡️ TETRIS
+│   ├── Execution Security Kernel
+│   ├── Tool Execution Firewall
+│   ├── Agent Behavior Firewall
+│   ├── Runtime Containment
+│   ├── Evidence Lifecycle
+│   ├── Classification Controls
+│   └── Emergency Kill Controls
+│
+├── 14. 🛡️ CYBER HAK
+│   ├── Digital Immune System
+│   ├── Perimeter Defense
+│   ├── File Forensics
+│   ├── Agent Integrity
+│   ├── Runtime Security
+│   ├── Incident Response
+│   └── Independent Security QA
+│
+├── 15. ⚔️ LEGION
+│   ├── Independent Ecosystem Component
+│   ├── Professional Agent Workforce
+│   ├── Distributed Participation
+│   ├── Dynamic Professional Teams
+│   └── Runtime-Domain Isolation
+│
+├── 16. 🔭 ORION
+│   ├── Independent Component
+│   ├── Explicit Integration Contracts
+│   ├── Federated Authority
+│   └── No Implicit Superuser Access
+│
+├── 17. 🏗️ CONSTRUCTOR AI
+│   ├── AI Software Engineering
+│   ├── Application Generation
+│   ├── Build & Test Pipeline
+│   ├── Isolated Execution
+│   ├── Code Verification
+│   └── Proof-Carrying Release
+│
+├── 18. 💼 CAPITAL CORE
+│   ├── Economic Intelligence
+│   ├── Capital Analysis
+│   ├── Business Intelligence
+│   ├── Financial Risk Analysis
+│   └── Economic Analysis ≠ Payment Authority
+│
+├── 19. 💎 CRYPTO IMPERIAL ECOSYSTEM
+│   ├── NDB — New Digital Bitcoin
+│   ├── IMPERIUM
+│   ├── MONARCH
+│   ├── NZT
+│   ├── LISA
+│   ├── SALMAN
+│   ├── EconomicCapability
+│   ├── BudgetPolicy
+│   ├── PaymentIntent
+│   ├── AuthorizationDecision
+│   └── PaymentReceipt
+│
+├── 20. 🔍 EVIDENCE & RELEASE
+│   ├── ProofGraph
+│   ├── Proof Passport
+│   ├── Audit Ledger
+│   ├── Artifact Integrity
+│   ├── Verification Gates
+│   ├── Release Attestation
+│   └── Independent Acceptance
+│
+├── 21. 🚧 PUBLIC / PRIVATE BOUNDARY
+│   ├── PUBLIC
+│   │   ├── Architecture Specifications
+│   │   ├── Public Documentation
+│   │   ├── Approved Repositories
+│   │   └── Publishable Evidence
+│   │
+│   └── PRIVATE / RESTRICTED
+│       ├── Proprietary Source
+│       ├── Secrets & Credentials
+│       ├── Privileged Infrastructure
+│       ├── Sensitive Audit Data
+│       └── Internal Security Policies
+│
+└── 22. ❤️ HUMAN PROTECTION CONSTITUTION
+    ├── Human Safety
+    ├── No Deliberate Harm
+    ├── No Coercive Manipulation
+    ├── No Repressive Use
+    ├── No Mass-Harm Use
+    ├── No Weaponization Against People
+    ├── No Governance Capture
+    └── AI Cannot Rewrite Core Protections
+
+⸻
+
+IV. CANONICAL EXECUTION PROTOCOL
+
+flowchart TD
+    A["ARCHITECT / AUTHORIZED USER"]
+    B["HANTER — Mission Coordination"]
+    C["IntentLock — Scope & Constraints"]
+    D["Federated Orchestrator"]
+    E["AI Passport Validation"]
+    F["Guardian Core — Policy Check"]
+    G{"Approval Gateway"}
+    H["Signed Agent Permit"]
+    I["Isolated Runtime Domain"]
+    J["TETRIS / CYBER HAK Security"]
+    K["Nano Core Agent + Approved Skill"]
+    L["Authorized Tool / ISMG / Service"]
+    M["Independent Verification"]
+    N["ProofGraph + Proof Passport"]
+    O["Audit Ledger"]
+    STOP["DENY / REVOKE / FAIL CLOSED"]
+    WAIT["REQUIRE OWNER APPROVAL"]
+    A --> B --> C --> D --> E --> F --> G
+    G -->|ALLOW| H
+    G -->|REQUIRE APPROVAL| WAIT
+    WAIT -->|Approved and revalidated| H
+    WAIT -->|Rejected or expired| STOP
+    G -->|DENY| STOP
+    H --> I --> J --> K --> L --> M
+    M -->|Verified| N --> O
+    M -->|Failed| STOP
+    STOP --> O
+
+Execution invariant: AI Passport proves identity; authorization and execution permission must be independently validated.
+
+The canonical execution sequence is logical. Every implementation must ensure that checks occur before protected actions, with revalidation when permissions, runtime context or risk conditions change.
+
+⸻
+
+V. PROOF & VERIFICATION LEVELS
+
+Level	Evidence requirement	Meaning
+E0	Architecture	Concept and structure documented
+E1	Specification	Contracts and acceptance criteria documented
+E2	Implementation	Actual source code or artifacts exist
+E3	Static / Unit	Local verification with recorded results
+E4	Integration	Component interoperability verified
+E5	Runtime	Actual execution verified in target environment
+E6	Production	Operational evidence from approved production
+
+Architecture ≠ Implementation ≠ Deployment ≠ Production.
+
+No architectural diagram proves that a component is operational.
+
+Every operational claim must link to independently inspectable evidence.
+
+⸻
+
+VI. FEDERATED AGENT SCALABILITY
+
+The architecture must support variable numbers of organizations, professional teams, orchestrators, runtime domains and Nano Core Agents.
+
+A professional team may use a reference configuration of five specialized agents coordinated by one domain orchestrator. This is a configurable team pattern, not a mandatory limit or a replacement for other organizational structures.
+
+Scalability properties:
+
+* Dynamic agent registration
+* Horizontal runtime partitioning
+* Isolated resource and security domains
+* Explicit cross-domain delegation
+* Cryptographic agent authorization
+* Quota and budget enforcement
+* Backpressure and admission controls
+* Orchestrator fault isolation
+* Revocation and emergency shutdown
+* Independent monitoring and verification
+
+Large-scale capacity targets remain architectural objectives until validated by load testing and operational evidence.
+
+⸻
+
+VII. CORPORATE GOVERNANCE BOUNDARY
+
+The proposed U.S. holding-company structure is separate from this technical architecture.
+
+IMPERIAL Core, Inc. — Proposed Delaware C-Corporation
+
+Capital architecture	Proposed quantity
+Total authorized shares	10,000,000
+Founder Class B	8,000,000
+Class A employee reserve	1,000,000
+Class A financing reserve	1,000,000
+
+Class B is proposed to carry 10 votes per share and Class A one vote per share, subject to legally effective charter terms.
+
+This is a planning model only. No incorporation, founder-share issuance or securities transaction is established by this document.
+
+Architectural decision authority does not override applicable corporate law, directors’ fiduciary duties or lawful shareholder and investor rights.
+
+⸻
+
+VIII. CRYPTO IMPERIAL ECOSYSTEM BOUNDARY
+
+The corporate ecosystem and token ecosystem must maintain independently documented legal, security and financial boundaries.
+
+NDB — New Digital Bitcoin.
+
+IMPERIUM — a long-term architectural digital currency envisioned for AI agents worldwide.
+
+IMPERIUM is not represented here as already globally adopted, liquid or accepted for autonomous-agent payments.
+
+Token ownership does not automatically provide equity in IMPERIAL Core, Inc.
+
+Economic operations require explicit authorization, legal review where necessary, verifiable receipts and audit records.
+
+⸻
+
+IX. ARCHITECTURAL INVARIANTS
+
+1. No single global orchestrator.
+2. HANTER coordinates but does not bypass domain authority.
+3. VELEON provides intelligence, not unrestricted privileges.
+4. IMPERIAL AGI cannot replace human architectural authority.
+5. Every NCA must have valid identity and scoped capabilities.
+6. Skills cannot independently create transaction authority.
+7. No protected tool execution without authorization.
+8. No financial transaction without the required approval.
+9. Guardian Core and Approval Gateway must fail closed.
+10. Cybersecurity controls must be independently verifiable.
+11. Public documentation must exclude private secrets.
+12. Unverified functionality must not be represented as deployed.
+13. All critical actions require accountable audit evidence.
+14. Corporate ownership and token ownership remain legally distinct.
+15. Human Protection Constitution cannot be rewritten by AI agents.
+
+⸻
+
+X. IMPLEMENTATION & ACCEPTANCE
+
+Before any component is declared operational, the responsible team must establish:
+
+* A reviewed specification
+* An identified implementation
+* Explicit integration contracts
+* A reproducible test procedure
+* An authorization and security assessment
+* A documented runtime result
+* Evidence linked through ProofGraph
+* A Proof Passport where applicable
+* An Audit Ledger record
+* An authorized release decision
+
+Release Rule: NO EVIDENCE → NO VERIFIED CLAIM.
+
+⸻
+
+XI. ARCHITECTURAL OWNERSHIP
+
+Alexander Romaskevich
+Founder • Owner • CEO • Chief Systems Architect
+IMPERIAL Core
+
+Public signature: RomaskevicH
+
+Document classification: Public Architectural Specification
+Document version: 1.1
+Document status: Proposed / Not a deployment attestation
+Final architectural decision authority: Alexander Romaskevich
+
+⸻
+
+IMPERIAL CORE
+
+Architecture Before Implementation.
+
+Federated Intelligence. Verified Execution. Human Authority.
+
+RomaskevicH © 2026 — Architectural documentation.
