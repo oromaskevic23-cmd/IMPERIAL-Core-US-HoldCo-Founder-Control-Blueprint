@@ -1,4 +1,287 @@
 # IMPERIAL-Core-US-HoldCo-Founder-Control-Blueprint
+IMPERIAL CORE
+│
+├── 👑 ARCHITECT AUTHORITY
+│   └── Alexander Romaskevich
+│       ├── Founder
+│       ├── Owner
+│       ├── CEO
+│       ├── Chief Systems Architect
+│       └── Final Architectural Authority
+│
+├── 🧠 HANTER
+│   ├── AI Command Center
+│   ├── Deputy to the Architect
+│   ├── Executive Kernel
+│   ├── Mission Intelligence
+│   ├── Planning
+│   ├── Delegation
+│   ├── Multi-Orchestrator Coordination
+│   ├── Evidence Aggregation
+│   └── Architect Interface
+│
+├── 🧠 VELEON
+│   ├── Intelligence Core
+│   ├── Strategic Reasoning
+│   ├── Deep Analysis
+│   ├── Recommendation Layer
+│   ├── Long-Horizon Thinking
+│   ├── Cognitive Support for HANTER
+│   └── Does not replace Architect Authority
+│
+├── 🌐 FEDERATED MULTI-ORCHESTRATOR ARCHITECTURE
+│   ├── Orchestrator A
+│   │   └── Runtime Domain A
+│   ├── Orchestrator B
+│   │   └── Runtime Domain B
+│   ├── Orchestrator C
+│   │   └── Runtime Domain C
+│   └── ... Dynamic Orchestrators
+│
+│   ❌ NO SINGLE GLOBAL ORCHESTRATOR
+│
+├── 🤖 NANO CORE AGENTS
+│   ├── Dynamic Agent Creation
+│   ├── Professional Agents
+│   ├── Engineering Agents
+│   ├── Research Agents
+│   ├── Security Agents
+│   ├── Business Agents
+│   ├── Financial Agents
+│   ├── Operational Agents
+│   └── Domain-Specific Teams
+│
+├── 🪪 AI PASSPORT
+│   ├── Agent Identity
+│   ├── Agent ID
+│   ├── Roles
+│   ├── Runtime Domain
+│   ├── Capability Binding
+│   ├── Policy Version
+│   ├── Trust State
+│   └── Cryptographic Identity
+│
+├── 🧩 ENTERPRISE IMPERIAL SKILLS
+│   ├── Engineering
+│   ├── Research
+│   ├── Security
+│   ├── Infrastructure
+│   ├── Business
+│   ├── Finance
+│   └── Specialized Capabilities
+│
+├── 🔐 INTENTLOCK
+│   ├── Mission Lock
+│   ├── Scope Control
+│   ├── Constraint Binding
+│   ├── Approval Conditions
+│   └── Execution Guardrails
+│
+├── 🛡️ SECURITY & GOVERNANCE
+│   │
+│   ├── Guardian Core
+│   │   ├── Policy Enforcement
+│   │   ├── Risk Evaluation
+│   │   ├── Human Protection
+│   │   └── Fail-Closed Decisions
+│   │
+│   ├── Approval Gateway
+│   │   ├── ALLOW
+│   │   ├── DENY
+│   │   ├── REQUIRE APPROVAL
+│   │   ├── REVOKED
+│   │   └── EXPIRED
+│   │
+│   ├── Signed Agent Permit
+│   │   ├── Task-Bound Authorization
+│   │   ├── Capability Scope
+│   │   ├── Expiry
+│   │   ├── Replay Protection
+│   │   └── Cryptographic Validation
+│   │
+│   ├── Audit Ledger
+│   │   ├── Mission Evidence
+│   │   ├── Authorization Evidence
+│   │   ├── Execution Evidence
+│   │   └── Tamper-Resistant History
+│   │
+│   ├── Zero Trust
+│   │   ├── Identity ≠ Authority
+│   │   ├── Capability ≠ Approval
+│   │   └── Intelligence ≠ Privilege
+│   │
+│   ├── Agent Behavior Firewall
+│   ├── Tool Execution Firewall
+│   ├── Kill Switch
+│   └── Deny by Default
+│
+├── 🧱 RUNTIME DOMAINS
+│   ├── Independent Execution Boundaries
+│   ├── Local Policies
+│   ├── Local Capabilities
+│   ├── Resource Budgets
+│   ├── Secret Boundaries
+│   ├── Agent Clusters
+│   └── Cross-Domain Authorization
+│
+├── 🧬 IMPERIAL AGI
+│   ├── Reasoner
+│   ├── Critic
+│   ├── Verifier
+│   ├── Long-Horizon Reasoning
+│   ├── Evidence Line
+│   └── Recommendation Layer
+│
+│   ❌ Does not replace HANTER
+│   ❌ Not a global orchestrator
+│
+├── 🚪 ISMG
+│   └── IMPERIAL Sovereign Model Gateway
+│       ├── AI Passport Validation
+│       ├── Model Registry
+│       ├── Provider Registry
+│       ├── Capability Registry
+│       ├── Sovereign Routing
+│       ├── Budget Controls
+│       ├── Secret Broker
+│       ├── Audit Adapter
+│       └── Kill Switch
+│
+├── 🛡️ TETRIS
+│   ├── Security Kernel
+│   ├── Tool Execution Firewall
+│   ├── Agent Behavior Firewall
+│   ├── Target Containment
+│   ├── Evidence Lifecycle
+│   ├── Classification Controls
+│   └── Emergency Kill Controls
+│
+├── ⚔️ LEGION
+│   ├── Independent Ecosystem Component
+│   ├── Distributed Participation
+│   ├── Agent / Orchestrator Ecosystem
+│   └── Runtime-Domain Isolation
+│
+├── 🔭 ORION
+│   ├── Independent Component
+│   ├── Explicit Integration Contracts
+│   ├── Federated Authority
+│   └── No Implicit Superuser Access
+│
+├── 💼 CAPITAL CORE
+│   ├── Economic Intelligence
+│   ├── Business Intelligence
+│   ├── Capital Analysis
+│   └── Economic Analysis ≠ Transaction Authority
+│
+├── 💎 CRYPTO IMPERIAL ECOSYSTEM
+│   │
+│   ├── NDB
+│   │   └── New Digital Bitcoin
+│   │
+│   ├── IMPERIUM
+│   │   ├── Digital Economic Architecture
+│   │   ├── Agent-to-Agent Economy
+│   │   └── Long-term architectural digital currency
+│   │       for AI agents worldwide
+│   │
+│   ├── EconomicCapability
+│   ├── BudgetPolicy
+│   ├── PaymentIntent
+│   ├── AuthorizationDecision
+│   └── PaymentReceipt
+│
+├── 🔍 PROOF ARCHITECTURE
+│   ├── ProofGraph
+│   │   ├── Decision Graph
+│   │   ├── Evidence Linking
+│   │   ├── Execution Traceability
+│   │   └── Verifiable Relationships
+│   │
+│   ├── Proof Passport
+│   │   ├── Mission Proof Package
+│   │   ├── Verification State
+│   │   ├── Release Evidence
+│   │   └── Audit-Ready Summary
+│   │
+│   └── Verification Layer
+│       ├── Static Verification
+│       ├── Integration Verification
+│       ├── Runtime Verification
+│       └── Production Evidence
+│
+├── 🚧 PUBLIC / PRIVATE BOUNDARY
+│   │
+│   ├── PUBLIC
+│   │   ├── Architecture
+│   │   ├── Public Specifications
+│   │   ├── Public Repositories
+│   │   └── Verifiable Evidence
+│   │
+│   └── PRIVATE / RESTRICTED
+│       ├── Proprietary Source
+│       ├── Runtime Infrastructure
+│       ├── Secrets
+│       ├── Credentials
+│       ├── Internal Policies
+│       └── Privileged Controls
+│
+├── ❤️ HUMAN PROTECTION CONSTITUTION
+│   ├── Human Safety
+│   ├── No Deliberate Harm
+│   ├── No Coercive Manipulation
+│   ├── No Repressive Use
+│   ├── No Mass-Harm Use
+│   ├── No Weaponization Against People
+│   ├── No Governance Capture
+│   └── AI Cannot Rewrite Core Protections
+│
+├── 🔬 EVIDENCE ARCHITECTURE
+│   ├── E0 — Architecture
+│   ├── E1 — Specification
+│   ├── E2 — Implementation
+│   ├── E3 — Static / Unit Verification
+│   ├── E4 — Integration Verification
+│   ├── E5 — Runtime Verification
+│   └── E6 — Production Evidence
+│
+└── ⚙️ CANONICAL EXECUTION CHAIN
+    │
+    ├── Architect
+    ↓
+    ├── HANTER
+    ↓
+    ├── VELEON
+    ↓
+    ├── Mission Envelope
+    ↓
+    ├── IntentLock
+    ↓
+    ├── Federated Orchestrator
+    ↓
+    ├── Nano Core Agent
+    ↓
+    ├── AI Passport
+    ↓
+    ├── Signed Agent Permit
+    ↓
+    ├── Enterprise IMPERIAL Skill
+    ↓
+    ├── Guardian Core
+    ↓
+    ├── Approval Gateway
+    ↓
+    ├── Runtime Domain
+    ↓
+    ├── TETRIS / Execution Security
+    ↓
+    ├── Tool / ISMG / Service
+    ↓
+    ├── Verification
+    ↓
+    ├── ProofGraph
+    ↓
+    └── Audit Ledger → Evidence
 Official corporate architecture blueprint for IMPERIAL Core’s proposed US holding company. 10M authorized shares, founder voting control, equity allocation, governance, investor readiness, and legal compliance planning. Founder: Alexander Romaskevich (RomaskevicH).
 IMPERIAL Core, Inc. — US HoldCo Equity & Founder Control Blueprint
 
