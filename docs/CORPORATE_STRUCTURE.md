@@ -60,6 +60,10 @@ All dotted connectors are *future possibilities*, not proof of existing entities
 
 ## 5. Technical and crypto perimeter
 
+**Digital corporation versus legal holding company:** The intended IMPERIAL Core runtime is a founder-led **digital corporation of Universal NCA**, with an architecture goal from **one to one billion universal agents**. The documented human development team is **one person (Alexander Romaskevich), with LLM assistance**. Neither future agents nor model providers are legal staff or shareholders merely by participating in technical work. A billion NCA is a future engineering scale target, not a claim that billion agents already exist; it is also entirely separate from the proposed holding company's **10 million authorized shares**.
+
+See the [Universal NCA specification](UNIVERSAL_NCA_CORPORATION.md).
+
 A *federated runtime domain* is not the same as a legally incorporated subsidiary. Any public/private source, patents, trademarks, software, tokens, accounts, domains or other assets need separately documented legal ownership and authorizations.
 
 **CRYPTO IMPERIAL boundary:** NDB, IMPERIUM, MONARCH, NZT, LISA and SALMAN are separate assets, not automatic corporate equity. IMPERIUM as a digital currency for AI agents worldwide remains a **long-term architecture concept**, not verified worldwide adoption or market liquidity.

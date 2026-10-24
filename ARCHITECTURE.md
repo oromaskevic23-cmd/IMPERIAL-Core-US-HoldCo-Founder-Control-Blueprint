@@ -1,6 +1,6 @@
 # IMPERIAL CORE — CANONICAL ENTERPRISE ARCHITECTURE BLUEPRINT
 
-**Version:** 1.1 — Proposed architecture  
+**Version:** 1.2 — Proposed architecture (Universal NCA scope)  
 **Date:** 2026-10-24  
 **Founder / Owner / Chief Systems Architect:** Alexander Romaskevich (RomaskevicH)  
 **Status:** Architecture Before Implementation / Evidence First / Not a Deployment Attestation
@@ -10,7 +10,9 @@
 ## 1. Non-negotiable principles
 
 - Federated **Multi-Orchestrator Architecture**, with no single global runtime orchestrator.
-- Dynamic professional teams and Nano Core Agents under domain-scoped governance.
+- **IMPERIAL Core is a digital corporation of Universal Nano Core Agents (NCA)** with a common agent model and dynamically assignable professions, under domain-scoped governance.
+- **Founder-led development:** one human, Alexander Romaskevich, using LLM and AI tooling; no fictional human staff.
+- **Target population:** 1 → 1,000,000,000 universal NCA identities (architectural capacity objective, not deployed capacity).
 - **Identity ≠ Authority · Capability ≠ Approval · Intelligence ≠ Privilege**.
 - **Zero Trust · Deny by Default · Fail Closed**.
 - AI Passport, Enterprise IMPERIAL Skills, Guardian Core, Approval Gateway, Audit Ledger, Signed Agent Permit, IntentLock and ProofGraph.
@@ -250,7 +252,9 @@ flowchart TD
 
 ## 6. Enterprise scalability and federated design
 
-Architecture must support numerous organizations, dynamic orchestrators, multiple professional teams, and dynamic Nano Core Agent capacity. A reference team may consist of five specialists plus a domain orchestrator, but it is not the only permitted organizational pattern. Admission control, tenant isolation, resource quotas, backpressure, revocation and failure-domain containment require benchmarks before capacity claims.
+The [Universal NCA digital corporation specification](docs/UNIVERSAL_NCA_CORPORATION.md) defines the shared agent template, dynamic professions and the future architectural target of **1 to 1 billion Universal NCA identities**. One universal agent can assume different permitted roles; no profession is assumed to be inherently supported without evidence.
+
+A reference team may contain five **universal NCA with separately assigned professional roles**, coordinated by one authorized domain orchestrator. A single NCA and other group sizes are equally valid. Founder-led human development presently comprises **one person**, assisted by LLM tools. Registered identities, active agents, concurrent executions and successfully verified tasks must be measured separately. Authorization, admission control, isolation, quotas, scheduling, budgets, revocation and failure containment require benchmarks before any scale claim.
 
 ## 7. Proposed corporate boundary
 

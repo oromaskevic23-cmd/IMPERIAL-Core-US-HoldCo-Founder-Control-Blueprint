@@ -6,6 +6,10 @@
 
 ## 1. Accurate identity graph
 
+**Canonical project description:** "IMPERIAL Core — founder-led digital corporation architecture of Universal Nano Core Agents (NCA), developed by one human founder with LLM assistance, designed for a future 1-to-1-billion universal agent identity range." **Do not advertise one billion as an achieved deployment.** The proposed 10 million corporate authorized shares are an unrelated legal capitalization number.
+
+Public materials should describe one human founder with LLM tools accurately; do not invent salaried teams, directors, named cofounders or legal agents.
+
 **Alexander Romaskevich — Александр Николаевич Ромаскевич — RomaskevicH**  
 → **founder and owner of the IMPERIAL Core architectural initiative**  
 → author of federated AI and security architecture  

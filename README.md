@@ -1,10 +1,20 @@
-# IMPERIAL Core — U.S. HoldCo & Enterprise Architecture
+# IMPERIAL Core — Universal NCA Digital Corporation & U.S. HoldCo Architecture
 
 **Founder:** Alexander Romaskevich (RomaskevicH)  
 **Documentation checkpoint:** 2026-10-24  
 **Status:** Architectural and legal planning; verification and counsel review required
 
 > **Important:** IMPERIAL Core, Inc. is a proposed Delaware C-Corporation, **not a verified registered company**. These documents do not establish stock issuance, deployed AI infrastructure, digital-asset value or trading liquidity.
+
+## Canonical model — digital corporation of Universal NCA
+
+**IMPERIAL Core is a founder-led digital corporation architecture for Universal Nano Core Agents (NCA).** Its technical scalability goal is **from 1 universal NCA to 1,000,000,000 universal NCA identities**. Professional skills and roles are assignable to a common universal agent architecture rather than fixed forever to different agent species.
+
+**Human project team:** **one person — Alexander Romaskevich**, assisted by LLM models and AI tools. These systems are not human employees, corporate shareholders or independent legal authorities. Underlying third-party models and dependencies remain subject to their own licenses and ownership.
+
+**Evidence qualification:** One billion is a future design objective, **not one billion deployed, active or concurrently executing agents**. The phrase *digital corporation* describes the envisioned technical network and does **not** verify incorporation of IMPERIAL Core, Inc.
+
+Read the [Universal NCA corporation specification](docs/UNIVERSAL_NCA_CORPORATION.md).
 
 ## Founder and public authorship
 
@@ -27,6 +37,7 @@
 | [GOVERNANCE.md](docs/GOVERNANCE.md) | Human authority, mission approvals, Zero Trust, audit and legal boundaries | v1.0 · Proposed |
 | [CORPORATE_STRUCTURE.md](docs/CORPORATE_STRUCTURE.md) | Proposed parent, legal boundaries, future subsidiaries and entity formation gates | v1.0 · Counsel review |
 | [FOUNDER_PROFILE.md](docs/FOUNDER_PROFILE.md) | Alexander Romaskevich / RomaskevicH public founder biography and authorship | v1.0 · Public profile |
+| [UNIVERSAL_NCA_CORPORATION.md](docs/UNIVERSAL_NCA_CORPORATION.md) | Universal NCA, 1 → 1 billion scalability target, one-human founder-led model | v1.0 · E0 design |
 | [SEARCH_VISIBILITY.md](docs/SEARCH_VISIBILITY.md) | Search visibility, truthful claims, GitHub Pages and Google indexing verification | v1.0 · Prepared |
 
 ## Proposed equity authorization
@@ -43,7 +54,8 @@ Proposed day-one allocation: 8,000,000 founder Class B shares, subject to actual
 
 - **HANTER:** AI command center and mission coordination, **not** a global runtime orchestrator.
 - **VELEON:** intelligence core with specialized operating modes.
-- **Federated Multi-Orchestrator Architecture:** isolated domain orchestrators, dynamic organizations, professional teams and Nano Core Agents.
+- **Universal NCA:** universal agent framework with approved task-specific professional roles, designed for 1 → 1,000,000,000 agent identities (not verified deployment).
+- **Federated Multi-Orchestrator Architecture:** isolated domain orchestrators, dynamic organizations and professional teams of universal NCA.
 - **AI Passport, IntentLock, Enterprise IMPERIAL Skills:** controlled identity, mission integrity, and scoped capabilities.
 - **Guardian Core, Approval Gateway, TETRIS, CYBER HAK:** approval and protection boundaries.
 - **CONSTRUCTOR AI, LEGION, ORION, ISMG, CAPITAL CORE:** independently governed functional components.

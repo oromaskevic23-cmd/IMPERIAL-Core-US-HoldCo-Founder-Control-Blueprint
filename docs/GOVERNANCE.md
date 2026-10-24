@@ -15,7 +15,7 @@
 | HANTER | Mission interface, planning and federation coordination | No universal orchestrator or implicit superuser |
 | VELEON / IMPERIAL AGI | Intelligence, analysis and recommendations | Intelligence does not confer authority |
 | Domain orchestrators | Local, scope-bound execution | No unauthorized cross-domain access |
-| Nano Core Agents / LEGION | Professional tasks under verified permits | Cannot self-grant roles or change owner authority |
+| Universal Nano Core Agents (NCA) / LEGION | One general agent architecture, with dynamically assigned professional roles under verified permits | Universal roles do not create unrestricted tools, privileges, legal powers or owner authority |
 | AI Passport | Identity, role, policy and domain claims | Identity ≠ Authority |
 | IntentLock | Mission scope and requirements integrity | Cannot override authorization policy |
 | Enterprise IMPERIAL Skills | Approved, versioned capabilities | Skill availability does not grant execution rights |
@@ -74,6 +74,8 @@ flowchart TD
 This diagram expresses a **proposed logical control flow**. It does not establish that the sequence is operational. Permissions must be evaluated prior to protected actions and revalidated after relevant changes.
 
 ## 4. Federated scalability and isolation
+
+**One-human founder-led development:** Alexander Romaskevich is the sole human contributor represented in this public organizational model; LLM-assisted tools and universal NCA are **software components, not a human workforce**. The [Universal NCA architecture](UNIVERSAL_NCA_CORPORATION.md) targets 1 to 1,000,000,000 agent identities only as a future E0 objective, subject to demonstrated cost, reliability, security, permissions and active-execution capacity.
 
 - A federation may support multiple enterprises, organizations, runtime domains, professional teams and dynamic numbers of Nano Core Agents.
 - A reference professional team of five agents with one domain orchestrator is an option, not a universal limit.
