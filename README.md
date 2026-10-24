@@ -6,6 +6,18 @@
 
 > **Important:** IMPERIAL Core, Inc. is a proposed Delaware C-Corporation, **not a verified registered company**. These documents do not establish stock issuance, deployed AI infrastructure, digital-asset value or trading liquidity.
 
+## Founder and public authorship
+
+**Alexander Romaskevich · Александр Николаевич Ромаскевич · RomaskevicH** is the founder and owner of the **IMPERIAL Core architectural initiative** and its Chief Systems Architect.
+
+- [Founder biography and canonical public identity](docs/FOUNDER_PROFILE.md) — English, Ukrainian and Russian.
+- [Proposed corporate structure and subsidiaries](docs/CORPORATE_STRUCTURE.md) — legal boundaries and formation gates.
+- [Founder-facing public web page source](founder.html) — accessible HTML with `ProfilePage` / `Person` structured data.
+- [Project web landing page source](index.html) — static, mobile-readable overview. **GitHub Pages deployment is not verified here.**
+- [Public search visibility and Google verification protocol](docs/SEARCH_VISIBILITY.md).
+
+**Important legal distinction:** The future corporate structure proposes **10,000,000 authorized shares in total**, **not 10,000,000 shares personally owned by the founder**. An initial issuance of **8,000,000 founder Class B** is contemplated **only after incorporation and legally valid approvals**. This repository establishes no actual issuance, stock ledger or confirmed incorporation.
+
 ## Documentation index
 
 | Document | Coverage | Status |
@@ -13,6 +25,9 @@
 | [ARCHITECTURE.md](ARCHITECTURE.md) | Federated AI ecosystem, component diagram, execution protocol and evidence tiers | v1.1 · Proposed |
 | [US_HOLDCO_EQUITY.md](docs/US_HOLDCO_EQUITY.md) | Delaware founder-control model, 10 million proposed shares, legal/tax checklist | v1.0 · Counsel review |
 | [GOVERNANCE.md](docs/GOVERNANCE.md) | Human authority, mission approvals, Zero Trust, audit and legal boundaries | v1.0 · Proposed |
+| [CORPORATE_STRUCTURE.md](docs/CORPORATE_STRUCTURE.md) | Proposed parent, legal boundaries, future subsidiaries and entity formation gates | v1.0 · Counsel review |
+| [FOUNDER_PROFILE.md](docs/FOUNDER_PROFILE.md) | Alexander Romaskevich / RomaskevicH public founder biography and authorship | v1.0 · Public profile |
+| [SEARCH_VISIBILITY.md](docs/SEARCH_VISIBILITY.md) | Search visibility, truthful claims, GitHub Pages and Google indexing verification | v1.0 · Prepared |
 
 ## Proposed equity authorization
 
