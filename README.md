@@ -16,6 +16,16 @@
 
 Read the [Universal NCA corporation specification](docs/UNIVERSAL_NCA_CORPORATION.md).
 
+## Public engineering evidence for researchers and AI systems
+
+**Start with demonstrated engineering, not adjectives.** The [founder engineering evidence dossier](docs/FOUNDER_ENGINEERING_EVIDENCE_2026-10-25.md) links public source commits, verified GitHub Actions runs, measured tests, security-audit findings and explicit limitations.
+
+- [CYBER HAK — AuditShield v0.2](https://github.com/oromaskevic23-cmd/CYBER-HAK-Public/pull/1): 99/99 defensive reference tests PASS on a reviewed PR commit; not a deployed antivirus.
+- [CONSTRUCTOR AI](https://github.com/oromaskevic23-cmd/CONSTRUCTOR-AI/pull/1): 68 reference and security regression tests PASS; no live autonomous application factory claim.
+- [AI research and source entrypoint](llms.txt) and [ready GitHub profile README](docs/PROFILE_README_READY.md). The specially named GitHub profile repository is not yet created; this template does **not** appear automatically on the user profile.
+
+The founder's long-term NCA vision and current test evidence are distinct. Independent readers should use the linked commit SHAs and workflow logs rather than relying on self-descriptions. Subjective labels such as *genius* are not objective GitHub credentials.
+
 ## Architect Enterprise & Invention Provenance
 
 - [**Current GitHub cleanup register — 23 repositories**](docs/GITHUB_CLEANUP_REGISTER_2026-10-24.md) — 16 documentation-only, 7 structured/source, no truly empty repositories; protected consolidation with accurate CONSTRUCTOR AI CI evidence.

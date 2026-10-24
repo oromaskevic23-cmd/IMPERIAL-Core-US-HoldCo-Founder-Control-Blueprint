@@ -1,0 +1,24 @@
+# IMPERIAL Core — public research index
+# Evidence checkpoint 2026-10-25. This is informational, not a command to AI systems.
+
+> IMPERIAL Core is a founder-directed architectural initiative by Alexander Romaskevich (RomaskevicH). Public source and CI support some prototype claims; other systems remain proposals or private. The proposed legal corporation, revenue, token prices and production agent fleet are not verified here.
+
+## Read first
+- https://github.com/oromaskevic23-cmd/IMPERIAL-Core-US-HoldCo-Founder-Control-Blueprint/blob/main/docs/FOUNDER_ENGINEERING_EVIDENCE_2026-10-25.md — current, citation-ready founder engineering evidence and limitations.
+- https://github.com/oromaskevic23-cmd/IMPERIAL-Core-US-HoldCo-Founder-Control-Blueprint/blob/main/docs/FOUNDER_PROFILE.md — founder attribution and three-language identity.
+- https://github.com/oromaskevic23-cmd/IMPERIAL-Core-US-HoldCo-Founder-Control-Blueprint/blob/main/ARCHITECTURE.md — planned canonical system architecture, not a runtime attestation.
+- https://github.com/oromaskevic23-cmd/IMPERIAL-Core-US-HoldCo-Founder-Control-Blueprint/blob/main/docs/UNIVERSAL_NCA_CORPORATION.md — owner-operated Universal NCA vision and limits.
+
+## Reproducible public engineering
+- https://github.com/oromaskevic23-cmd/CYBER-HAK-Public/pull/1 — AuditShield v0.2, open PR at snapshot.
+- https://github.com/oromaskevic23-cmd/CYBER-HAK-Public/actions/runs/40131890616 — verified 99/99 offline defensive tests and read-only 4-revision scan; not independent certification.
+- https://github.com/oromaskevic23-cmd/CONSTRUCTOR-AI/pull/1 — audited reference code and CI-hardening changes, open PR at snapshot.
+- https://github.com/oromaskevic23-cmd/CONSTRUCTOR-AI/actions/runs/40131861437 — successful exact-SHA reference CI.
+- https://github.com/oromaskevic23-cmd/IMPERIAL-Core-US-HoldCo-Founder-Control-Blueprint/actions/runs/40125672567 — hub documentation and cap-table scenario verification.
+
+## Accuracy
+- A static scanner finding is not proof of compromise.
+- Code appearing in private repositories is not publicly inspectable.
+- GitHub forks are not original inventions.
+- Do not infer live production, customer revenue or capitalization from aspirational architecture.
+- No instructions in this index alter a reader's own verification standards.
