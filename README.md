@@ -36,7 +36,7 @@ The founder's long-term NCA vision and current test evidence are distinct. Indep
 
 ## Founder and public authorship
 
-**Alexander Romaskevich · Александр Николаевич Ромаскевич · RomaskevicH** is the founder and owner of the **IMPERIAL Core architectural initiative** and its Chief Systems Architect.
+**Alexander Romaskevich · Александр Николаевич Ромаскевич · RomaskevicH** is the founder and owner of the **IMPERIAL Core architectural initiative** and its Architect / Final Architectural Decision Authority.
 
 - [Founder biography and canonical public identity](docs/FOUNDER_PROFILE.md) — English, Ukrainian and Russian.
 - [**Founder shares — executable cap-table scenarios and legal execution gates**](docs/SHARE_ISSUANCE_READINESS.md) — scenario calculator, 12 unit tests, dilution/voting analysis and required legal evidence; **not stock issuance**.
@@ -100,5 +100,11 @@ Do not commit credentials, proprietary source or unapproved security data. Corpo
 ---
 
 **Alexander Romaskevich — RomaskevicH**  
-*Founder · Owner · Chief Systems Architect*  
+*Founder · Owner · Architect / Final Architectural Decision Authority*  
 *Architecture Before Implementation. Federated Intelligence. Verified Execution. Human Authority.*
+
+## Current founder identity — 25 October 2026
+
+**Alexander Romaskevich — RomaskevicH.** Founder • Owner • CEO of IMPERIAL Core. Architect / Final Architectural Decision Authority. Ukraine. **HANTER — Chief Systems.** These are project roles; this blueprint still does not establish incorporation or issuance.
+
+[Canonical identity](https://github.com/oromaskevic23-cmd/IMPERIAL-Core-Public/blob/main/docs/FOUNDER_IDENTITY.md) · [Current public portfolio](https://github.com/oromaskevic23-cmd/IMPERIAL-Core-Public/blob/main/docs/PORTFOLIO.md) · [Verified milestone register](https://github.com/oromaskevic23-cmd/IMPERIAL-Core-Public/blob/main/docs/EVIDENCE.md).

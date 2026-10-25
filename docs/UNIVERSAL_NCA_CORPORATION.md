@@ -3,7 +3,7 @@
 **Specification ID:** IC-UNIVERSAL-NCA-001  
 **Version:** 1.0 (architecture, proposed)  
 **Date:** 2026-10-24  
-**Human founder / owner / Chief Systems Architect:** Alexander Romaskevich (RomaskevicH)  
+**Human founder / owner / Architect / Final Architectural Decision Authority:** Alexander Romaskevich (RomaskevicH)  
 **Human core team at this documented stage:** **ONE person — the founder**  
 **AI-assisted development:** LLM models and approved AI tools, controlled by the founder  
 **Status:** E0 DESIGN / NO BILLION-AGENT DEPLOYMENT VERIFIED
