@@ -2,7 +2,7 @@
 
 **Version:** 1.2 — Proposed architecture (Universal NCA scope)  
 **Date:** 2026-10-24  
-**Founder / Owner / Chief Systems Architect:** Alexander Romaskevich (RomaskevicH)  
+**Founder / Owner / Architect / Final Architectural Decision Authority:** Alexander Romaskevich (RomaskevicH)  
 **Status:** Architecture Before Implementation / Evidence First / Not a Deployment Attestation
 
 > **Scope.** This is a design specification. Component diagrams are conceptual: they do not prove a deployed integration, security certification, production capacity or legal corporate formation. The independent runtime and security properties require actual implementation and verification evidence.
@@ -80,7 +80,7 @@ IMPERIAL CORE
 ├── 01. ARCHITECT AUTHORITY
 │   └── Alexander Romaskevich
 │       ├── Founder / Owner / CEO (subject to legal formation and appointment)
-│       ├── Chief Systems Architect
+│       ├── Architect / Final Architectural Decision Authority
 │       └── Final Technical Architectural Decision Authority
 │
 ├── 02. HANTER — Command and coordination, not a global orchestrator
