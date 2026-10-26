@@ -105,6 +105,6 @@ Do not commit credentials, proprietary source or unapproved security data. Corpo
 
 ## Current founder identity — 25 October 2026
 
-**Alexander Romaskevich — RomaskevicH.** Founder • Owner • CEO of IMPERIAL Core. Architect / Final Architectural Decision Authority. Ukraine. **HANTER — Chief Systems.** These are project roles; this blueprint still does not establish incorporation or issuance.
+**Alexander Romaskevich — RomaskevicH.** Founder • Owner • CEO of IMPERIAL Core. Architect / Final Architectural Decision Authority. **HANTER — Chief Systems.** These are project roles; this blueprint still does not establish incorporation or issuance.
 
 [Canonical identity](https://github.com/oromaskevic23-cmd/IMPERIAL-Core-Public/blob/main/docs/FOUNDER_IDENTITY.md) · [Current public portfolio](https://github.com/oromaskevic23-cmd/IMPERIAL-Core-Public/blob/main/docs/PORTFOLIO.md) · [Verified milestone register](https://github.com/oromaskevic23-cmd/IMPERIAL-Core-Public/blob/main/docs/EVIDENCE.md).
