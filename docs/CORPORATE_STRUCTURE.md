@@ -44,7 +44,7 @@ flowchart TD
  H -.->|"No automatic ownership"| X
 ```
 
-All dotted connectors are *future possibilities*, not proof of existing entities or control. **HANTER, VELEON, LEGION / NCA, ORION, Guardian Core, CYBER HAK, TETRIS, ISMG, ProofGraph and Audit Ledger are technical roles or components, not legal corporations merely by appearing here.**
+All dotted connectors are *future possibilities*, not proof of existing entities or control. **HANTER, VELION, LEGION / NCA, ORION, Guardian Core, CYBER HAK, TETRIS, ISMG, ProofGraph and Audit Ledger are technical roles or components, not legal corporations merely by appearing here.**
 
 ## 4. Incorporation and ownership gates
 

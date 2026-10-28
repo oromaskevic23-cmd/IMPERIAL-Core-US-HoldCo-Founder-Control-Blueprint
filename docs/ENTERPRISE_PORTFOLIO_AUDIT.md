@@ -14,7 +14,7 @@
 
 - **23/23** accessible repositories already contain `ENTERPRISE_READINESS.md` and `ENTERPRISE_COMMIT_STANDARD.md` (policy documentation, not enforcement).
 - **17/23** have **only** the root `README.md` and the above two policy documents; there is no checked-in standalone executable source tree, test directory or workflow in these snapshots.
-- **Four** additional repositories — CYBER HAK, VELEON public, AGY public and the US HoldCo blueprint — contain expanded architectural/documentation structures but **no verified executable implementation** prior to the current hardening change.
+- **Four** additional repositories — CYBER HAK, VELION public, AGY public and the US HoldCo blueprint — contain expanded architectural/documentation structures but **no verified executable implementation** prior to the current hardening change.
 - **Two** third-party forks — `mirofish` and `lingbot-vla-v2` — include actual source; they **must preserve upstream author/licensing rights** and are not evidence of original coding by IMPERIAL Core.
 - Of the six deeply inspected structures, `mirofish` included **two GitHub workflow definitions**, but the checked Actions history reported **0 runs**. The other five structures showed **no workflows**. No completed, successful CI run or production deployment is established by this audit.
 
@@ -40,7 +40,7 @@
 | [ORION-Public](https://github.com/oromaskevic23-cmd/ORION-Public) | PUBLIC | E0 | README-only; no runtime adapter. | Write explicit integration contracts and add a permission-denial test prototype. |
 | [IMPERIAL-AGI](https://github.com/oromaskevic23-cmd/IMPERIAL-AGI) | PUBLIC | E0 | README-only; no checked-in executable AGI implementation. | Document limited reasoning/evaluation claims; implement benchmarks before capability assertions. |
 | [CYBER-HAK-Public](https://github.com/oromaskevic23-cmd/CYBER-HAK-Public) | PUBLIC | E0–E1 documents | 31 repository tree entries: security/agent documents and manifests; zero executable source paths, no tests or CI. | Build auditable Artifact Guard tests, signed permit verification and independent threat-model tests. |
-| [VELION-LLM-Public](https://github.com/oromaskevic23-cmd/VELION-LLM-Public) | PUBLIC | E0 | 5 repository tree entries; no executable code, tests or CI. Repository legacy spelling differs from canonical VELEON. | Keep stable links; update displayed canonical product name VELEON, specify model adapter and benchmark contract. |
+| [VELION-LLM-Public](https://github.com/oromaskevic23-cmd/VELION-LLM-Public) | PUBLIC | E0 | 5 repository tree entries; no executable code, tests or CI. Repository legacy spelling differs from canonical VELION. | Keep stable links; update displayed canonical product name VELION, specify model adapter and benchmark contract. |
 | [AGY---PUBLIC-](https://github.com/oromaskevic23-cmd/AGY---PUBLIC-) | PUBLIC | E0–E1 documents | 22 repository tree entries; public blockchain specification docs, no executable validator/client code or CI. | Create minimal devnet code and consensus tests; verify no unsupported production/decentralization claims. |
 | [mirofish](https://github.com/oromaskevic23-cmd/mirofish) | PUBLIC FORK | E2 source present | 158 tree entries including backend/frontend code, tests and two GitHub workflow definitions; 0 recorded Actions runs at check. Upstream fork, not independently authored source. | Preserve AGPL-3.0 upstream notice; run relevant local tests and review dependency/security changes before declaring a verified fork release. |
 | [lingbot-vla-v2](https://github.com/oromaskevic23-cmd/lingbot-vla-v2) | PUBLIC FORK | E2 source present | 452 tree entries including ML/training code, license and example test files; no GitHub workflow discovered. | Preserve Apache-2.0 attribution; establish reproducible environment, dependency and test evidence; do not overclaim model ownership. |
@@ -74,7 +74,7 @@
 
 ## Architectural and legal naming boundaries
 
-- **VELEON** is the canonical intelligence component. An existing repository may retain a legacy slug for stable historical links.
+- **VELION** is the canonical intelligence component. An existing repository may retain a legacy slug for stable historical links.
 - **HANTER** coordinates missions, but a single global unrestricted runtime orchestrator is forbidden by the proposed federation design.
 - Universal Nano Core Agents have dynamic professional roles and limited authorized capabilities. **1 to 1,000,000,000 identities** is an engineering goal, not a measured operating capacity.
 - **One human founder** is documented, using LLM tools; NCA are not human employees.
@@ -90,7 +90,7 @@
 
 **P2 — build first independent testable application:** Focus engineering on `CONSTRUCTOR-AI`. Link or commit source, use a real LLM adapter, isolated build/test, non-deceptive proof, and independent QA; verify remote CI.
 
-**P3 — foundation services:** Nano Core Agent runtime, HANTER mission interface, VELEON model adapter, Guardian Core permits, CYBER HAK tests, LEGION role governance.
+**P3 — foundation services:** Nano Core Agent runtime, HANTER mission interface, VELION model adapter, Guardian Core permits, CYBER HAK tests, LEGION role governance.
 
 **P4 — legal and infrastructure:** Review U.S. corporate formation and IP, verify crypto projects and actual deployment ownership, domain/app privacy boundaries, disaster recovery and test evidence.
 

@@ -26,7 +26,7 @@
 flowchart TB
     OWNER["ARCHITECT AUTHORITY<br/>Alexander Romaskevich"]
     HANTER["HANTER<br/>Command & Mission Interface"]
-    VELEON["VELEON<br/>Intelligence Core & Modes"]
+    VELION["VELION<br/>Intelligence Core & Modes"]
     AGI["IMPERIAL AGI<br/>Reasoning & Verification"]
     FED["Federated Coordination Contracts"]
     OA["Domain Orchestrator A"]
@@ -47,8 +47,8 @@ flowchart TB
     AUDIT["Audit Ledger"]
 
     OWNER --> HANTER
-    HANTER <--> VELEON
-    VELEON <--> AGI
+    HANTER <--> VELION
+    VELION <--> AGI
     HANTER --> FED
     FED --> OA
     FED --> OB
@@ -89,7 +89,7 @@ IMPERIAL CORE
 │   ├── Federated Coordination Contracts
 │   └── Evidence Aggregation
 │
-├── 03. VELEON — Intelligence Core
+├── 03. VELION — Intelligence Core
 │   ├── Strategic and long-horizon reasoning
 │   ├── Specialized intelligence modes
 │   ├── Cognitive support for HANTER

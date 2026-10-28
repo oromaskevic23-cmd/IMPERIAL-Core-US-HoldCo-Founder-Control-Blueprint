@@ -49,7 +49,7 @@ A **Universal Nano Core Agent** uses a general agent identity/runtime architectu
 flowchart TB
     F["Alexander Romaskevich<br/>ONE human founder / architect"]
     H["HANTER<br/>Mission coordination"]
-    V["VELEON<br/>Intelligence & advisory modes"]
+    V["VELION<br/>Intelligence & advisory modes"]
     FED["Federation contracts<br/>No single global runtime orchestrator"]
     OA["Orchestrator A<br/>Runtime domain A"]
     OB["Orchestrator B<br/>Runtime domain B"]
@@ -123,6 +123,6 @@ The phrase **digital corporation** describes the planned operational network of 
 **Project:** IMPERIAL Core — founder-led digital corporation architecture for Universal Nano Core Agents  
 **Human founding team:** one person (the founder), supported by LLM-based tools  
 **Universal NCA scale target:** from **1** to **1,000,000,000** identities (future objective, unverified at scale)  
-**Intelligence component:** **VELEON** (other labels may describe modes, not the canonical product name)
+**Intelligence component:** **VELION** (other labels may describe modes, not the canonical product name)
 
 **Release gate:** No Evidence → No Verified Claim.

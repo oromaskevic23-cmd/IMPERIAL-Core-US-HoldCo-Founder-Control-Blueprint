@@ -9,7 +9,7 @@
 
 The IMPERIAL Core founding architectural vision proposes a **digital corporation of Universal Nano Core Agents** with dynamic professions, federated independent runtime domains and verifiable permission gates. An agent population of **1 to 1,000,000,000 identities** is a design objective, **not demonstrated capacity**. Present human engineering participation is described as **one founder with LLM assistance**.
 
-HANTER coordinates missions; VELEON provides intelligence. AI Passport, IntentLock, Guardian Core, Approval Gateway, Signed Agent Permit, TETRIS, CYBER HAK, ProofGraph and Audit Ledger are intended to limit authority and trace execution. The public diagrams are not an implementation or proof of uniqueness.
+HANTER coordinates missions; VELION provides intelligence. AI Passport, IntentLock, Guardian Core, Approval Gateway, Signed Agent Permit, TETRIS, CYBER HAK, ProofGraph and Audit Ledger are intended to limit authority and trace execution. The public diagrams are not an implementation or proof of uniqueness.
 
 ## “Digital patent in code” — accurate terminology
 

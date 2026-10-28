@@ -13,7 +13,7 @@
 |---|---|---|
 | Architect — Alexander Romaskevich | Final internal technical architectural decisions | Cannot substitute for valid corporate approvals |
 | HANTER | Mission interface, planning and federation coordination | No universal orchestrator or implicit superuser |
-| VELEON / IMPERIAL AGI | Intelligence, analysis and recommendations | Intelligence does not confer authority |
+| VELION / IMPERIAL AGI | Intelligence, analysis and recommendations | Intelligence does not confer authority |
 | Domain orchestrators | Local, scope-bound execution | No unauthorized cross-domain access |
 | Universal Nano Core Agents (NCA) / LEGION | One general agent architecture, with dynamically assigned professional roles under verified permits | Universal roles do not create unrestricted tools, privileges, legal powers or owner authority |
 | AI Passport | Identity, role, policy and domain claims | Identity ≠ Authority |

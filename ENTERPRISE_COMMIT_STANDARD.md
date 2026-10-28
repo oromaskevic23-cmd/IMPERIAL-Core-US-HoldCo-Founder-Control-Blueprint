@@ -7,7 +7,7 @@
 
 ## Project-specific provenance and acceptance
 
-Architecture and founder profile remain E0 documentation. Preserve 10 million proposed authorized shares distinction from ownership or issuance, 1 billion NCA architecture target from actual capacity, and VELEON canonical naming.
+Architecture and founder profile remain E0 documentation. Preserve 10 million proposed authorized shares distinction from ownership or issuance, 1 billion NCA architecture target from actual capacity, and VELION canonical naming.
 
 ## Every new commit must provide
 

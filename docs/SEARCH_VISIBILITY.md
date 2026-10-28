@@ -47,7 +47,7 @@ Reference: https://docs.github.com/en/pages/getting-started-with-github-pages/co
 ## 4. Publication rules
 
 - Use the founder's accurate English, Russian and Ukrainian name forms naturally.
-- Use **VELEON**, not the title of one of its modes.
+- Use **VELION**, not the title of one of its modes.
 - Don't describe the unregistered proposed corporation as an existing registered company.
 - Don't assert a verified multi-million share personal holding without stock-ledger evidence.
 - Don't fabricate independent press coverage, partnerships, ratings, awards or reviews.

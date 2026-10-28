@@ -79,7 +79,7 @@ The IRS generally requires a relevant [§83(b) election / Form 15620](https://ww
 
 ## 6. Hard separation from crypto and AI agents
 
-NDB, IMPERIUM, MONARCH, NZT, LISA, SALMAN and wallet balances are **not Class A or B corporate shares**. No automated transfer of tokens, treasury or private IP is authorized. Universal NCA, HANTER, VELEON, CONSTRUCTOR AI and CYBER HAK are technical/project components, not stockholders by default.
+NDB, IMPERIUM, MONARCH, NZT, LISA, SALMAN and wallet balances are **not Class A or B corporate shares**. No automated transfer of tokens, treasury or private IP is authorized. Universal NCA, HANTER, VELION, CONSTRUCTOR AI and CYBER HAK are technical/project components, not stockholders by default.
 
 **Deny by Default:** No AI agent may create issued shares, corporate ownership records, investor promises, signed approvals, securities sales, tax elections or Delaware filings merely because a GitHub planning file exists. Keep real corporate minutes, identities, tax identifiers, contracts and shareholder ledgers in a controlled legal repository, **not public GitHub**.
 

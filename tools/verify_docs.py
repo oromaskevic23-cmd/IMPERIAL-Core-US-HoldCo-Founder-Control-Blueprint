@@ -29,7 +29,7 @@ JSON_LD = re.compile(
     r'<script\s+type=["\']application/ld\+json["\']\s*>(.*?)</script>',
     re.I | re.S,
 )
-BANNED_VARIANTS = re.compile(r"\b(?:Veleon\s+Max|Velion\s+Max)\b", re.I)
+BANNED_VARIANTS = re.compile(r"\b(?:VELION\s+Max|Velion\s+Max)\b", re.I)
 
 
 def local_target(source: Path, url: str, root: Path) -> Path | None:
@@ -98,8 +98,8 @@ def validate(root: Path) -> list[str]:
 
     if (root / "README.md").is_file():
         text = (root / "README.md").read_text(encoding="utf-8")
-        if "VELEON" not in text or "NCA" not in text:
-            issues.append("README.md: missing VELEON or NCA canonical terms")
+        if "VELION" not in text or "NCA" not in text:
+            issues.append("README.md: missing VELION or NCA canonical terms")
         if "proposed" not in text.lower():
             issues.append("README.md: missing proposed-status legal qualification")
 

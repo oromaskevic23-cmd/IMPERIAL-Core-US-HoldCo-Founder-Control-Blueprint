@@ -73,7 +73,7 @@ Proposed day-one allocation: 8,000,000 founder Class B shares, subject to actual
 ## Canonical ecosystem — design, not deployment
 
 - **HANTER:** AI command center and mission coordination, **not** a global runtime orchestrator.
-- **VELEON:** intelligence core with specialized operating modes.
+- **VELION:** intelligence core with specialized operating modes.
 - **Universal NCA:** universal agent framework with approved task-specific professional roles, designed for 1 → 1,000,000,000 agent identities (not verified deployment).
 - **Federated Multi-Orchestrator Architecture:** isolated domain orchestrators, dynamic organizations and professional teams of universal NCA.
 - **AI Passport, IntentLock, Enterprise IMPERIAL Skills:** controlled identity, mission integrity, and scoped capabilities.

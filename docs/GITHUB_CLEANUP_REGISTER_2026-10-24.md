@@ -10,7 +10,7 @@
 
 - **23 repositories** accessible in the connected GitHub installation.
 - **16 docs-only** repositories: root contains `README.md`, `ENTERPRISE_COMMIT_STANDARD.md`, and `ENTERPRISE_READINESS.md`, but no standalone runnable source tree checked at the root in this inventory.
-- **7 structured/source repositories:** CYBER HAK, VELEON public, AGY public, two third-party source forks, CONSTRUCTOR AI and this central public hub.
+- **7 structured/source repositories:** CYBER HAK, VELION public, AGY public, two third-party source forks, CONSTRUCTOR AI and this central public hub.
 - **0 completely empty default branches.** Docs-only does not mean valueless or safe to delete. Several README files are hundreds of kilobytes.
 - **0 repositories deleted in this maintenance pass.** The connected GitHub app has no delete/rename/archive repository action. A phone's authenticated GitHub browser session is not transferred to a separate automation browser.
 
@@ -34,7 +34,7 @@
 | 14 | [`ORION-Public`](https://github.com/oromaskevic23-cmd/ORION-Public) | PUBLIC | DOCS_ONLY | ORION architecture; KEEP |
 | 15 | [`IMPERIAL-AGI`](https://github.com/oromaskevic23-cmd/IMPERIAL-AGI) | PUBLIC | DOCS_ONLY | AGI research/vision documentation; KEEP |
 | 16 | [`CYBER-HAK-Public`](https://github.com/oromaskevic23-cmd/CYBER-HAK-Public) | PUBLIC | STRUCTURED_DOCS | Security architecture/agents/docs; NOT EMPTY |
-| 17 | [`VELION-LLM-Public`](https://github.com/oromaskevic23-cmd/VELION-LLM-Public) | PUBLIC | STRUCTURED_DOCS | Legacy repo slug; public VELEON architecture; KEEP links |
+| 17 | [`VELION-LLM-Public`](https://github.com/oromaskevic23-cmd/VELION-LLM-Public) | PUBLIC | STRUCTURED_DOCS | Legacy repo slug; public VELION architecture; KEEP links |
 | 18 | [`AGY---PUBLIC-`](https://github.com/oromaskevic23-cmd/AGY---PUBLIC-) | PUBLIC | STRUCTURED_DOCS | Blockchain architecture and specification; KEEP |
 | 19 | [`mirofish`](https://github.com/oromaskevic23-cmd/mirofish) | PUBLIC | UPSTREAM_SOURCE_FORK | Third-party fork with code and AGPL license; preserve attribution |
 | 20 | [`lingbot-vla-v2`](https://github.com/oromaskevic23-cmd/lingbot-vla-v2) | PUBLIC | UPSTREAM_SOURCE_FORK | Third-party fork with code and Apache license; preserve attribution |
@@ -48,7 +48,7 @@
 
 **B — Compare pairs without assuming duplicates:** `HANTER` vs `HANTER-Public`; `Nano-Core-Agents` vs `Nano-Core-Agents-Public`; `IMPERIAL-Core-` vs `Repository-name-IMPERIAL-Core`; `Enterprise-IMPERIAL-Skills` vs `Codex-Enterprise-IMPERIAL-Skills`. Similar names are only a review signal, not identical content; some pairs intentionally separate private and public information.
 
-**C — Protect valuable work:** keep `CONSTRUCTOR-AI`, `CYBER-HAK-Public`, `VELION-LLM-Public` (canonical product name **VELEON**), `AGY---PUBLIC-`, the founder hub, and both appropriately attributed third-party source forks. `SHPAIZMAN-ORCHESTRATOR` is a separate beneficiary project; do not mix permissions or ownership.
+**C — Protect valuable work:** keep `CONSTRUCTOR-AI`, `CYBER-HAK-Public`, `VELION-LLM-Public` (canonical product name **VELION**), `AGY---PUBLIC-`, the founder hub, and both appropriately attributed third-party source forks. `SHPAIZMAN-ORCHESTRATOR` is a separate beneficiary project; do not mix permissions or ownership.
 
 ## Updated CONSTRUCTOR AI evidence
 

@@ -90,7 +90,7 @@ IMPERIAL Core, Inc. — Delaware C-Corp (proposed; not yet registered)
               │
               ├── Legally formed US/international operating subsidiaries (future)
               │     ├── CONSTRUCTOR AI operating business (subject to ownership verification)
-              │     ├── VELEON / enterprise AI modules (subject to chain-of-title review)
+              │     ├── VELION / enterprise AI modules (subject to chain-of-title review)
               │     ├── LEGION / professional teams (not separate equity owners by default)
               │     └── Other product-specific entities (only after deliberate formation)
               │

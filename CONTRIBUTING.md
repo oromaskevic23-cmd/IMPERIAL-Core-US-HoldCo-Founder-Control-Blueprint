@@ -5,7 +5,7 @@
 ## Author and authority
 - Founder: Alexander Romaskevich (RomaskevicH). The current human engineering team is one founder assisted by LLM-based tools.
 - Preserve original code/document attributions, external upstream licenses and third-party dependencies.
-- HANTER, VELEON and Universal NCA are **technical architecture**, not independently appointed corporate directors or legal officers.
+- HANTER, VELION and Universal NCA are **technical architecture**, not independently appointed corporate directors or legal officers.
 
 ## Required procedure
 1. Make one scoped change, describe it with a Conventional Commit title: `docs:`, `fix:`, `test:`, `security:`, etc.
