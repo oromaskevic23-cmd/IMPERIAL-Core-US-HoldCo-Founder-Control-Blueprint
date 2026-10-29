@@ -122,7 +122,7 @@ Do not commingle corporate treasury, LP positions and privately controlled walle
 10. **Stockholder/Voting/Investor Rights Agreements** if later investors or governance contracts require them; do not add investor vetoes casually.
 11. **EIN application**, U.S. bank/fintech onboarding, bookkeeping and tax-compliance calendar.
 12. **SEC/state securities-law exemption memo** for each founder, option or fundraising transaction.
-13. **Cross-border U.S.–Ukraine tax memorandum**, including Ukrainian CFC (КІК), personal residence, reporting, dividends and transfer pricing where relevant.
+13. **Cross-border U.S.–Ukraine tax memorandum**, including Ukrainian controlled foreign company (CFC), personal residence, reporting, dividends and transfer pricing where relevant.
 14. Corporate approval and Audit Ledger policy: agents may prepare recommendations and documents, but no self-directed shares issuance, asset transfer, bank movement or changes of legal control.
 
 ## 7. Regulatory and tax checklist as of 2026-10-24
@@ -144,7 +144,7 @@ Do not commingle corporate treasury, LP positions and privately controlled walle
 
 ### Ukraine, conditional on individual's tax residency
 
-- If founder is a **tax resident of Ukraine**, majority control in the U.S. company may trigger Ukrainian controlled foreign company (**КІК**) rules and personal reporting obligations. Ukrainian tax authority guidance (August 7, 2026) explains a **60-day CFC acquisition-of-control notification** for covered events. Residency, actual control and date of relevant event require a Ukrainian tax specialist's determination.
+- If founder is a **tax resident of Ukraine**, majority control in the U.S. company may trigger Ukrainian controlled foreign company (**CFC**) rules and personal reporting obligations. Ukrainian tax authority guidance (August 7, 2026) explains a **60-day CFC acquisition-of-control notification** for covered events. Residency, actual control and date of relevant event require a Ukrainian tax specialist's determination.
 - U.S.–Ukraine treaty applicability, dividend treatment, cross-border compensation and IP migrations require individualized advice; do not assume U.S. incorporation replaces Ukrainian tax duties or establishes U.S. immigration/residence status.
 
 ## 8. Phase-gated rollout
