@@ -10,7 +10,7 @@
 
 Public materials should describe one human founder with LLM tools accurately; do not invent salaried teams, directors, named cofounders or legal agents.
 
-**Alexander Romaskevich — Александр Николаевич Ромаскевич — RomaskevicH**  
+**Alexander Romaskevich — RomaskevicH**  
 → **founder and owner of the IMPERIAL Core architectural initiative**  
 → author of federated AI and security architecture  
 → author of the **proposed Delaware holding-company blueprint** with **10,000,000 total authorized corporate shares**  
