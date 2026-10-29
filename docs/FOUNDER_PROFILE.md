@@ -5,8 +5,8 @@ Effective: **25 October 2026** · Owner directive: `IC-ASTRA-FOUNDER-ENTERPRISE-
 | Field | Canonical public wording |
 |---|---|
 | Primary name | Alexander Romaskevich |
-| Russian name | Александр Николаевич Ромаскевич |
-| Ukrainian name | Олександр Миколайович Ромаскевич |
+| Russian-language name, romanized | Aleksandr Nikolaevich Romaskevich |
+| Ukrainian-language name, romanized | Oleksandr Mykolaiovych Romaskevych |
 | Signature | RomaskevicH |
 | Role | Founder • Owner • CEO of IMPERIAL Core |
 | Architectural authority | Architect / Final Architectural Decision Authority |
@@ -21,17 +21,9 @@ Alexander Romaskevich (RomaskevicH) is the Founder, Owner and CEO of IMPERIAL Co
 
 **Headline:** Building IMPERIAL Core — Governed AI Agents, Verified Software Engineering & Autonomous Digital Systems.
 
-## Українська
+## Localization boundary
 
-Олександр Миколайович Ромаскевич (Alexander Romaskevich, RomaskevicH) — засновник, власник і CEO IMPERIAL Core, Архітектор, за яким залишається остаточне право ухвалення архітектурних рішень. Базується в Україні та розвиває інженерну AI-native екосистему керованих ШІ-агентів, перевірюваної розробки програмного забезпечення й автономних цифрових систем. Архітектура передбачає федеративних оркестраторів, професійні команди та динамічну кількість Nano Core Agents. Публічні еталонні реалізації та результати їхніх тестів відокремлено від майбутніх архітектурних цілей.
-
-**Заголовок:** Розбудовую IMPERIAL Core — керовані ШІ-агенти, перевірювана розробка програмного забезпечення та автономні цифрові системи.
-
-## Русский
-
-Александр Николаевич Ромаскевич (Alexander Romaskevich, RomaskevicH) — основатель, владелец и CEO IMPERIAL Core, Архитектор с окончательным правом принятия архитектурных решений. Находится в Украине и развивает инженерную AI-native экосистему управляемых ИИ-агентов, проверяемой разработки программного обеспечения и автономных цифровых систем. Архитектура предусматривает федеративных оркестраторов, профессиональные команды и динамическое количество Nano Core Agents. Публичные эталонные реализации и результаты их тестов отделены от будущих архитектурных целей.
-
-**Заголовок:** Развиваю IMPERIAL Core — управляемые ИИ-агенты, проверяемая разработка программного обеспечения и автономные цифровые системы.
+GitHub technical and corporate documentation is maintained in English. The Russian and Ukrainian founder identity variants are retained in the multilingual first-party websites and historical Git revisions, rather than duplicated as non-English narrative in current engineering documents.
 
 ## GitHub account fields — prepared, not yet applied
 
