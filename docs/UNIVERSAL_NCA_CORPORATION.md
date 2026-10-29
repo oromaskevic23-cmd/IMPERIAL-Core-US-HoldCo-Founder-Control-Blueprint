@@ -119,7 +119,7 @@ The phrase **digital corporation** describes the planned operational network of 
 
 ## 8. Founder attribution and public statement
 
-**Founder:** Alexander Romaskevich · Александр Николаевич Ромаскевич · RomaskevicH  
+**Founder:** Alexander Romaskevich · RomaskevicH  
 **Project:** IMPERIAL Core — founder-led digital corporation architecture for Universal Nano Core Agents  
 **Human founding team:** one person (the founder), supported by LLM-based tools  
 **Universal NCA scale target:** from **1** to **1,000,000,000** identities (future objective, unverified at scale)  
