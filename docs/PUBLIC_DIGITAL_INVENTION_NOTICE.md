@@ -32,7 +32,7 @@ Detailed novel algorithms, unpublished benchmark data, trade secrets, private co
 
 ## Author and related evidence
 
-**Alexander Romaskevich · Александр Николаевич Ромаскевич · RomaskevicH**  
+**Alexander Romaskevich · RomaskevicH**  
 - [Universal NCA architecture](UNIVERSAL_NCA_CORPORATION.md)
 - [Founder biography](FOUNDER_PROFILE.md)
 - [Enterprise portfolio audit](ENTERPRISE_PORTFOLIO_AUDIT.md)
