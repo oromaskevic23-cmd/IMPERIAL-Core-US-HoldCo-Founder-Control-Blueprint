@@ -8,7 +8,7 @@ Building IMPERIAL Core — Governed AI Agents, Verified Software Engineering & A
 
 ## Founder introduction
 
-I am Alexander Romaskevich — Александр Николаевич Ромаскевич — founder of IMPERIAL Core. I set its architectural direction and retain final architectural decision authority. My work focuses on governed AI agents, software verification and accountable digital systems.
+I am Alexander Romaskevich — founder of IMPERIAL Core. I set its architectural direction and retain final architectural decision authority. My work focuses on governed AI agents, software verification and accountable digital systems.
 
 These are my first-party project roles. Public source, commits and test logs below provide the technical evidence; titles do not substitute for product verification.
 
@@ -81,12 +81,12 @@ I welcome technical review and conversations about governed AI systems, verified
 
 ## Authorship — RomaskevicH
 
-**Alexander Romaskevich · Александр Николаевич Ромаскевич · Олександр Миколайович Ромаскевич**  
+**Alexander Romaskevich**  
 Founder • Owner • CEO of IMPERIAL Core. Architect / Final Architectural Decision Authority.
 
 Founder roles are project designations; this profile makes no corporate-registration or certification claim. Third-party models, libraries and forked repositories retain their original attribution and license terms. Git history records contributions; public visibility does not create a new license grant.
 
-[English / Українська / Русский](https://github.com/oromaskevic23-cmd/IMPERIAL-Core-Public/blob/main/docs/FOUNDER_IDENTITY.md) · [Provenance](https://github.com/oromaskevic23-cmd/IMPERIAL-Core-Public/blob/main/PROVENANCE.md)
+[English project and identity documentation](https://github.com/oromaskevic23-cmd/IMPERIAL-Core-Public/blob/main/docs/FOUNDER_IDENTITY.md) · [Provenance](https://github.com/oromaskevic23-cmd/IMPERIAL-Core-Public/blob/main/PROVENANCE.md)
 
 **Build software. Verify everything.**  
 **IMPERIAL Core — Engineering with Evidence.**
