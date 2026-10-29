@@ -36,7 +36,7 @@ The founder's long-term NCA vision and current test evidence are distinct. Indep
 
 ## Founder and public authorship
 
-**Alexander Romaskevich · Александр Николаевич Ромаскевич · RomaskevicH** is the founder and owner of the **IMPERIAL Core architectural initiative** and its Architect / Final Architectural Decision Authority.
+**Alexander Romaskevich · RomaskevicH** is the founder and owner of the **IMPERIAL Core architectural initiative** and its Architect / Final Architectural Decision Authority.
 
 - [Founder biography and canonical public identity](docs/FOUNDER_PROFILE.md) — English, Ukrainian and Russian.
 - [**Founder shares — executable cap-table scenarios and legal execution gates**](docs/SHARE_ISSUANCE_READINESS.md) — scenario calculator, 12 unit tests, dilution/voting analysis and required legal evidence; **not stock issuance**.
