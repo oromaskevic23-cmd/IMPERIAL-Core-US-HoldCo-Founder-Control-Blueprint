@@ -4,13 +4,13 @@
 **Documentation checkpoint:** 2026-10-24  
 **Status:** Architectural and legal planning; verification and counsel review required
 
-> **Important:** IMPERIAL Core, Inc. is a proposed Delaware C-Corporation, **not a verified registered company**. These documents do not establish stock issuance, deployed AI infrastructure, digital-asset value or trading liquidity.
+> **Important:** IMPERIAL Core is a founder-led project; any future legal entity remains proposed and is not verified as registered.
 
 ## Canonical model — digital corporation of Universal NCA
 
 **IMPERIAL Core is a founder-led digital corporation architecture for Universal Nano Core Agents (NCA).** Its technical scalability goal is **from 1 universal NCA to 1,000,000,000 universal NCA identities**. Professional skills and roles are assignable to a common universal agent architecture rather than fixed forever to different agent species.
 
-**Human project team:** **one person — Alexander Romaskevich**, assisted by LLM models and AI tools. These systems are not human employees, corporate shareholders or independent legal authorities. Underlying third-party models and dependencies remain subject to their own licenses and ownership.
+**Human project team:** Alexander Romaskevich, assisted by AI models and tools. Third-party technology retains its original ownership and licenses.
 
 **Evidence qualification:** One billion is a future design objective, **not one billion deployed, active or concurrently executing agents**. The phrase *digital corporation* describes the envisioned technical network and does **not** verify incorporation of IMPERIAL Core, Inc.
 
@@ -36,39 +36,26 @@ The founder's long-term NCA vision and current test evidence are distinct. Indep
 
 ## Founder and public authorship
 
-**Alexander Romaskevich · RomaskevicH** is the founder and owner of the **IMPERIAL Core architectural initiative** and its Architect / Final Architectural Decision Authority.
+**Alexander Romaskevich · RomaskevicH** is the founder and owner of the **IMPERIAL Core architectural initiative** and directs its development as Founder • Owner • CEO (project roles).
 
-- [Founder biography and canonical public identity](docs/FOUNDER_PROFILE.md) — English, Ukrainian and Russian.
-- [**Founder shares — executable cap-table scenarios and legal execution gates**](docs/SHARE_ISSUANCE_READINESS.md) — scenario calculator, 12 unit tests, dilution/voting analysis and required legal evidence; **not stock issuance**.
+- [Founder biography and canonical public identity](docs/FOUNDER_PROFILE.md) — canonical public biography.
 - [Proposed corporate structure and subsidiaries](docs/CORPORATE_STRUCTURE.md) — legal boundaries and formation gates.
 - [Founder-facing public web page source](founder.html) — accessible HTML with `ProfilePage` / `Person` structured data.
 - [Project web landing page source](index.html) — static, mobile-readable overview. **GitHub Pages deployment is not verified here.**
 - [Public search visibility and Google verification protocol](docs/SEARCH_VISIBILITY.md).
 
-**Important legal distinction:** The future corporate structure proposes **10,000,000 authorized shares in total**, **not 10,000,000 shares personally owned by the founder**. An initial issuance of **8,000,000 founder Class B** is contemplated **only after incorporation and legally valid approvals**. This repository establishes no actual issuance, stock ledger or confirmed incorporation.
 
 ## Documentation index
 
 | Document | Coverage | Status |
 |---|---|---|
 | [ARCHITECTURE.md](ARCHITECTURE.md) | Federated AI ecosystem, component diagram, execution protocol and evidence tiers | v1.1 · Proposed |
-| [SHARE_ISSUANCE_READINESS.md](docs/SHARE_ISSUANCE_READINESS.md) | Executable hypothetical cap table, tax warning and legal issuance checklist | v1.0 · No real issuance |
-| [US_HOLDCO_EQUITY.md](docs/US_HOLDCO_EQUITY.md) | Delaware founder-control model, 10 million proposed shares, legal/tax checklist | v1.0 · Counsel review |
 | [GOVERNANCE.md](docs/GOVERNANCE.md) | Human authority, mission approvals, Zero Trust, audit and legal boundaries | v1.0 · Proposed |
 | [CORPORATE_STRUCTURE.md](docs/CORPORATE_STRUCTURE.md) | Proposed parent, legal boundaries, future subsidiaries and entity formation gates | v1.0 · Counsel review |
 | [FOUNDER_PROFILE.md](docs/FOUNDER_PROFILE.md) | Alexander Romaskevich / RomaskevicH public founder biography and authorship | v1.0 · Public profile |
 | [UNIVERSAL_NCA_CORPORATION.md](docs/UNIVERSAL_NCA_CORPORATION.md) | Universal NCA, 1 → 1 billion scalability target, one-human founder-led model | v1.0 · E0 design |
 | [SEARCH_VISIBILITY.md](docs/SEARCH_VISIBILITY.md) | Search visibility, truthful claims, GitHub Pages and Google indexing verification | v1.0 · Prepared |
 
-## Proposed equity authorization
-
-| Class | Shares | Votes per share |
-|---|---:|---:|
-| Founder Class B Common | 8,000,000 | 10 |
-| Class A Common | 2,000,000 | 1 |
-| **Total authorized** | **10,000,000** | |
-
-Proposed day-one allocation: 8,000,000 founder Class B shares, subject to actual formation and corporate approvals. The 2,000,000 Class A shares remain unissued; earmarks are **not ownership grants**. The 97.56% founder voting calculation is hypothetical after all shares are issued and does not override class rights or legal obligations.
 
 ## Canonical ecosystem — design, not deployment
 
@@ -89,7 +76,8 @@ See the [enterprise diagram](ARCHITECTURE.md#2-enterprise-system-map), [executio
 **Zero Trust · Deny by Default · Fail Closed.**  
 **No single global orchestrator.**
 
-Do not commit credentials, proprietary source or unapproved security data. Corporate equity is legally separate from Polygon tokens and privately controlled wallets.
+Do not commit credentials, proprietary source or unapproved security data.
+
 
 **NDB** means New Digital Bitcoin. **IMPERIUM** is a long-term architectural digital currency envisioned for AI agents worldwide; current global adoption or liquidity is not established by this repository.
 

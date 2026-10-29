@@ -258,15 +258,16 @@ A reference team may contain five **universal NCA with separately assigned profe
 
 ## 7. Proposed corporate boundary
 
-See [US HoldCo Equity Blueprint](docs/US_HOLDCO_EQUITY.md). The proposed Delaware holding-company model authorizes 10,000,000 shares (8,000,000 high-vote Class B and 2,000,000 ordinary Class A). These are **proposals**, not registered or issued shares. CEO and corporate director powers must arise from actual legal formation and appointment; architectural authority does not replace corporate law.
+Future corporate arrangements remain private planning. Incorporation and legal appointments require authentic records.
 
 ## 8. Crypto and public/private boundaries
 
-Corporate stock is not Polygon tokens. Existing code, contracts, domains and private wallets do not transfer automatically into a future corporation. NDB is New Digital Bitcoin. IMPERIUM is a **long-term architectural digital currency envisioned for AI agents worldwide**; no global usage, liquidity, or market value is established here. Publication must be approved and redacted to exclude secrets, private policy controls and sensitive execution evidence.
+Existing code, contracts, domains and private wallets do not automatically transfer to a future corporation. NDB means New Digital Bitcoin. IMPERIUM is a long-term architectural digital currency envisioned for AI agents worldwide; adoption, liquidity and market value are not established here. Exclude credentials, private policy controls and sensitive execution evidence from public materials.
+
 
 ## 9. Acceptance and attribution
 
-Before claiming a module operational, obtain implementation artifacts, tests, security and policy results, runtime evidence, independent review, and Audit Ledger traceability. No AI agent may register companies, transfer money, issue stock, publish privileged material or seize technical architectural authority without lawful and properly scoped permission.
+Before claiming a module operational, obtain implementation, tests, runtime evidence and authorized review. AI agents cannot independently create legal entities or transfer project assets.
 
 **Architectural attribution:** Alexander Romaskevich (RomaskevicH).  
 **Status:** Proposed / Independent verification required.

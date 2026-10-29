@@ -17,6 +17,7 @@
 7. Never force-push or rewrite historical commits solely to polish their appearance; preserve truthful provenance.
 
 ## Current legal boundary
-IMPERIAL Core, Inc. is a **proposed** Delaware legal entity. The proposal for 10 million authorized shares is not proof of company formation, shares issued, or personal ownership. The Universal NCA goal of up to 1 billion agent identities is an unverified engineering objective.
+
+Any future legal entity remains proposed. The scale target of up to one billion NCA identities is not verified deployed capacity.
 
 **CI success here only validates documentation hygiene, not the described software itself.**

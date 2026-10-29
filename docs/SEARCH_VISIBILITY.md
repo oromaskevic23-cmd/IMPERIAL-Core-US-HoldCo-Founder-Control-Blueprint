@@ -6,25 +6,19 @@
 
 ## 1. Accurate identity graph
 
-**Canonical project description:** "IMPERIAL Core — founder-led digital corporation architecture of Universal Nano Core Agents (NCA), developed by one human founder with LLM assistance, designed for a future 1-to-1-billion universal agent identity range." **Do not advertise one billion as an achieved deployment.** The proposed 10 million corporate authorized shares are an unrelated legal capitalization number.
 
 Public materials should describe one human founder with LLM tools accurately; do not invent salaried teams, directors, named cofounders or legal agents.
 
 **Alexander Romaskevich — RomaskevicH**  
 → **founder and owner of the IMPERIAL Core architectural initiative**  
 → author of federated AI and security architecture  
-→ author of the **proposed Delaware holding-company blueprint** with **10,000,000 total authorized corporate shares**  
-→ planned initial founder issuance: **8,000,000 Class B**, only after valid formation and corporate approvals.
 
-**Do not claim personal ownership of 10 million issued shares.** The authorized ceiling and the stock ledger are legally different. No actual issuance is substantiated in this repository.
 
 ## 2. Verified source-of-truth pages
 
 - [GitHub account](https://github.com/oromaskevic23-cmd)
 - [IMPERIAL Core repository](https://github.com/oromaskevic23-cmd/IMPERIAL-Core-US-HoldCo-Founder-Control-Blueprint)
 - [Founder biography](FOUNDER_PROFILE.md)
-- [Corporate organization and planned share capital](CORPORATE_STRUCTURE.md)
-- [Founder equity legal proposal](US_HOLDCO_EQUITY.md)
 - [Canonical AI architecture](../ARCHITECTURE.md)
 
 The repository also contains `index.html` and `founder.html`, intended as public search-friendly static page sources. **Having HTML files in GitHub does not verify deployment of GitHub Pages.**
@@ -49,7 +43,6 @@ Reference: https://docs.github.com/en/pages/getting-started-with-github-pages/co
 - Use the founder's accurate English, Russian and Ukrainian name forms naturally.
 - Use **VELION**, not the title of one of its modes.
 - Don't describe the unregistered proposed corporation as an existing registered company.
-- Don't assert a verified multi-million share personal holding without stock-ledger evidence.
 - Don't fabricate independent press coverage, partnerships, ratings, awards or reviews.
 - Don't add fictitious or unconfirmed `sameAs` profile URLs or speculative `canonical` hostnames.
 - Protect private keys, credentials, source code and privileged security information.
@@ -66,6 +59,5 @@ Reference: https://docs.github.com/en/pages/getting-started-with-github-pages/co
 | Google crawled/indexed pages | Not independently verified |
 | Google Knowledge Panel or rank | Not independently verified |
 | Delaware corporate registration | Not evidenced |
-| Issued founder share certificate / stock ledger | Not evidenced |
 
 **Rule:** An optimized website can improve discovery, but Google never guarantees crawl, indexing, ranking or a Knowledge Panel. Publish evidence; never misstate status.

@@ -113,9 +113,6 @@ flowchart TB
 
 ## 7. Company, token and ownership boundaries
 
-The phrase **digital corporation** describes the planned operational network of Universal NCA. It **does not prove formation of a legal corporation**. The proposed Delaware holding company **IMPERIAL Core, Inc.** is distinct and requires actual incorporation, corporate approvals and valid securities issuance. Its proposed **10,000,000 authorized corporate shares** are **not** the **1,000,000,000-agent target**. The contemplated founder issuance is **8,000,000 Class B shares**, not executed.
-
-**CRYPTO IMPERIAL** tokens are neither corporate shares nor automatic shares in a Universal NCA workforce. AI agents do not autonomously issue securities, acquire legal ownership of assets or move treasury funds.
 
 ## 8. Founder attribution and public statement
 

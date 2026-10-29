@@ -22,9 +22,6 @@ The authorized technical label is **Digital Invention Passport (DIP)**: versione
 
 An invention description, architecture graph and code hash are different from (a) independently verified authorship, (b) a qualifying patent application and (c) a granted patent. Use the official patent office's filing receipt and patent number, if they become available, before stating otherwise.
 
-## Corporate/share count boundary
-
-IMPERIAL Core, Inc. remains the name of a **proposed** Delaware C-Corporation. Its proposed **10,000,000 total authorized shares** and contemplated **8,000,000 founder Class B issuance** are not documented as issued. Neither metric measures a billion-agent fleet.
 
 ## Public/private protection
 

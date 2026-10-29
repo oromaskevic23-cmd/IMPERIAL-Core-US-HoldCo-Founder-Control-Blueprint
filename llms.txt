@@ -14,7 +14,7 @@
 - https://github.com/oromaskevic23-cmd/CYBER-HAK-Public/actions/runs/40131890616 — verified 99/99 offline defensive tests and read-only 4-revision scan; not independent certification.
 - https://github.com/oromaskevic23-cmd/CONSTRUCTOR-AI/pull/1 — audited reference code and CI-hardening changes, open PR at snapshot.
 - https://github.com/oromaskevic23-cmd/CONSTRUCTOR-AI/actions/runs/40131861437 — successful exact-SHA reference CI.
-- https://github.com/oromaskevic23-cmd/IMPERIAL-Core-US-HoldCo-Founder-Control-Blueprint/actions/runs/40125672567 — hub documentation and cap-table scenario verification.
+- https://github.com/oromaskevic23-cmd/IMPERIAL-Core-US-HoldCo-Founder-Control-Blueprint/actions/runs/40125672567 — historical documentation verification.
 
 ## Accuracy
 - A static scanner finding is not proof of compromise.

@@ -3,7 +3,6 @@
 > **Historical audit snapshot notice (2026-10-24):** The inventory below predates the subsequent CONSTRUCTOR AI code, tests and verified CI runs. For its current E2/E3 reference status and the repo-cleanup inventory (16 docs-only, 7 structured/source, zero fully empty), see [the updated repository cleanup register](GITHUB_CLEANUP_REGISTER_2026-10-24.md). The original audit findings below remain as their historical checkpoint, not a current product readiness claim.
 
 
-
 **Audit date:** 2026-10-24  
 **GitHub account:** `oromaskevic23-cmd`  
 **Accessible scope:** 23 repositories, all on their default `main` branch  
@@ -46,7 +45,6 @@
 | [lingbot-vla-v2](https://github.com/oromaskevic23-cmd/lingbot-vla-v2) | PUBLIC FORK | E2 source present | 452 tree entries including ML/training code, license and example test files; no GitHub workflow discovered. | Preserve Apache-2.0 attribution; establish reproducible environment, dependency and test evidence; do not overclaim model ownership. |
 | [CONSTRUCTOR-AI](https://github.com/oromaskevic23-cmd/CONSTRUCTOR-AI) | PUBLIC | E0 in this repo | Root contains README and Enterprise documents only; no standalone package, source tree, tests or CI in this repo snapshot. | Commit reviewed implementation or link verified separate source provenance; run reproducible AI→build→test→ProofGraph flow. |
 | [SHPAIZMAN-ORCHESTRATOR](https://github.com/oromaskevic23-cmd/SHPAIZMAN-ORCHESTRATOR) | PUBLIC | E0 in this repo | Root contains README and Enterprise documents only; no installable release artifact, executable source tree or CI. | Add signed ZIP/source deliverable, safe installation and explicit per-site access controls; keep beneficiary/ownership separate. |
-| [IMPERIAL-Core-US-HoldCo-Founder-Control-Blueprint](https://github.com/oromaskevic23-cmd/IMPERIAL-Core-US-HoldCo-Founder-Control-Blueprint) | PUBLIC | E0–E1 documents | 18 tree entries before this audit, including architecture, corporate proposal, founder HTML and standards; no tests or CI before this proposed change. | Add actual validation script, tests, CI, contributor and security policies. Proposals are not incorporation or issued shares. |
 
 ## Enforced vs documented security and release gates
 
@@ -78,7 +76,6 @@
 - **HANTER** coordinates missions, but a single global unrestricted runtime orchestrator is forbidden by the proposed federation design.
 - Universal Nano Core Agents have dynamic professional roles and limited authorized capabilities. **1 to 1,000,000,000 identities** is an engineering goal, not a measured operating capacity.
 - **One human founder** is documented, using LLM tools; NCA are not human employees.
-- The `10,000,000` proposed US HoldCo *authorized shares* are a separate legal design, not issued founder ownership or a registered corporation.
 - Digital Invention Passport and Git history are technical publication/evidence artifacts, **not an official patent filing/grant**.
 - NDB, IMPERIUM, MONARCH and NZT are founder-declared projects; source/asset ownership and trademark claims require separate evidence.
 

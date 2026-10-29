@@ -5,7 +5,8 @@
 **Founder / Technical Architectural Authority:** Alexander Romaskevich (RomaskevicH)  
 **Status:** PROPOSED / NOT A RUNTIME ATTESTATION
 
-> **Legal boundary:** This is a technical governance design, not a legal charter or evidence that IMPERIAL Core, Inc. has been incorporated. Corporate law, director fiduciary duties, shareholder and investor rights, securities laws and regulatory approvals apply independently.
+
+> **Legal boundary:** Technical governance does not establish incorporation or replace applicable legal obligations.
 
 ## 1. Authority structure
 
@@ -35,7 +36,7 @@
 | Deploy a production release | Independent QA, security assessment, authorized human approval and release evidence |
 | Access secrets or privileged runtime | Scoped agent permit, secret isolation and audit |
 | Move corporate funds, cryptocurrencies or create DEX liquidity | Wallet/treasury owner confirmation per transaction; relevant compliance review |
-| Issue shares, change voting rights, transfer intellectual property or form subsidiaries | Corporate-law approvals, counsel review and executed documentation |
+| Transfer intellectual property or form subsidiaries | Lawful owner approval, legal review and executed documentation |
 | Cross-domain delegation | Explicit authenticated mission contract, revocable privileges and audit |
 | Emergency stop | Authorized kill switch, incident evidence and controlled resumption |
 
@@ -104,7 +105,6 @@ Every critical action should have a mission identifier, intent hash, AI Passport
 
 The Human Protection Constitution prohibits deliberate harm, coercive manipulation, repressive use, mass-harm use, weaponization against people and automated revision of core human protections.
 
-The CRYPTO IMPERIAL Ecosystem Boundary separates NDB, IMPERIUM, MONARCH, NZT, LISA and SALMAN from corporate equity, corporate treasury and privately controlled wallets. **IMPERIUM** is the **long-term architectural digital currency envisioned for AI agents worldwide**; the repository does not establish adoption, liquidity, valuation or global use.
 
 The Public / Private Boundary requires approved redaction of sensitive evidence. Do not publish private keys, credentials, production secrets or privileged security controls.
 

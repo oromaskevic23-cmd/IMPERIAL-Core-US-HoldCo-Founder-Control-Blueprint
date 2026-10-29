@@ -11,8 +11,7 @@
 
 **Architectural attribution where relevant:** Alexander Romaskevich (RomaskevicH), founder of IMPERIAL Core. Human development presently described as one founder with LLM assistance. The repository's existing code, licenses and contributor history must be checked before asserting ownership.
 
-**Specific observation:** This repository documents a proposed US HoldCo and federated AI architecture; neither an actual incorporated entity nor share issuance has been verified.  
-**Primary risk:** Do not claim ownership of 10M issued shares. Proposed 10M corporate share authorization differs from 1B universal NCA target. Avoid publishing confidential patent enabling details.
+**Primary risk:** Do not imply legal formation or publish confidential founder-planning information.
 
 ## Enterprise maturity and required evidence
 
@@ -37,7 +36,7 @@
 
 **Digital corporation principle:** IMPERIAL Core is the founder-led architectural vision of a **digital corporation of Universal Nano Core Agents (NCA)**. Professional skills are mission-scoped. Scale **1 → 1,000,000,000 universal NCA identities** is a **future engineering objective**, not a verified deployment. One human founder uses LLM assistance. Canonical intelligence component: **VELION**.
 
-**Control invariants:** Identity ≠ Authority · Capability ≠ Approval · Zero Trust · Deny by Default · Fail Closed. Corporate shares (10M proposed authorization) are not tokens or NCA identities.
+**Control invariants:** Identity ≠ Authority · Capability ≠ Approval · Zero Trust · Deny by Default · Fail Closed.
 
 **References:** [Canonical IMPERIAL Core architecture](https://github.com/oromaskevic23-cmd/IMPERIAL-Core-US-HoldCo-Founder-Control-Blueprint/blob/main/ARCHITECTURE.md) · [Governance](https://github.com/oromaskevic23-cmd/IMPERIAL-Core-US-HoldCo-Founder-Control-Blueprint/blob/main/docs/GOVERNANCE.md).
 
