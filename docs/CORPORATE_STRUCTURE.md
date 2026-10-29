@@ -7,7 +7,7 @@
 
 ## 1. Founder and proposed parent
 
-**Alexander Romaskevich — Александр Николаевич Ромаскевич — RomaskevicH** is the founder and owner of the **IMPERIAL Core architectural initiative** and its Architect / Final Architectural Decision Authority. The founder's internal technical decision authority does not supersede directors' fiduciary duties, actual shareholder rights, securities regulation or company law.
+**Alexander Romaskevich — RomaskevicH** is the founder and owner of the **IMPERIAL Core architectural initiative** and its Architect / Final Architectural Decision Authority. The founder's internal technical decision authority does not supersede directors' fiduciary duties, actual shareholder rights, securities regulation or company law.
 
 A Delaware holding company may eventually hold legally acquired equity in operating subsidiaries, sign licenses and raise capital; today, such ownership must not be presumed.
 
