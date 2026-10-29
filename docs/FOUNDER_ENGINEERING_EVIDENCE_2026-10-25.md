@@ -1,7 +1,7 @@
 # Alexander Romaskevich (RomaskevicH) — Public Engineering Evidence
 
 **Evidence checkpoint:** 2026-10-25  
-**Public identity:** Alexander Romaskevich · RomaskevicH · Александр Николаевич Ромаскевич  
+**Public identity:** Alexander Romaskevich · RomaskevicH  
 **Role:** Founder and Architect / Final Architectural Decision Authority of the *IMPERIAL Core architectural initiative*  
 **GitHub:** [oromaskevic23-cmd](https://github.com/oromaskevic23-cmd)  
 **Evidence standard:** Source code, immutable commit, reproducible test and exact CI run before a capability claim.
