@@ -16,7 +16,7 @@ These are my first-party project roles. Public source, commits and test logs bel
 
 IMPERIAL Core is a long-term AI-native engineering ecosystem under development. Its **Federated Multi-Orchestrator Architecture** supports domain-specific orchestrators, multiple organizational structures, professional teams and a dynamic number of Nano Core Agents.
 
-**HANTER — AI Command Center / Chief Systems** operates within the architecture defined by the founder. Domain orchestrators retain bounded responsibilities and explicit authority.
+**HANTER — AI Command Center** operates within the architecture defined by the founder. Domain orchestrators retain bounded responsibilities and explicit authority.
 
 ## Flagship engineering projects
 
@@ -24,7 +24,7 @@ IMPERIAL Core is a long-term AI-native engineering ecosystem under development. 
 |---|---|---|
 | [IMPERIAL Core](https://github.com/oromaskevic23-cmd/IMPERIAL-Core-Public) | **SPECIFIED** | Parent AI-native engineering ecosystem. Public architecture and governance documentation. |
 | [VELION](https://github.com/oromaskevic23-cmd/VELION-LLM-Public) | **TESTED** | Proposal gateway reference in open PR #1; mocked endpoints. Default branch is documentation. |
-| [HANTER](https://github.com/oromaskevic23-cmd/HANTER) | **TESTED** | AI Command Center / Chief Systems. Offline Mission Desk reference in open PR #3; default branch is documentation. |
+| [HANTER](https://github.com/oromaskevic23-cmd/HANTER) | **TESTED** | AI Command Center. Offline Mission Desk reference in open PR #3; default branch is documentation. |
 | [CONSTRUCTOR AI](https://github.com/oromaskevic23-cmd/CONSTRUCTOR-AI) | **TESTED** | Task Manager and planning/quarantine reference. Main has runnable code; the cited 68-test result is open PR #1. |
 | [LEGION / Nano Core Agents](https://github.com/oromaskevic23-cmd/Legion-Public) | **SPECIFIED** | Public professional-team and agent architecture; no public runtime CI evidence verified in these documentation repositories. |
 | [CYBER HAK](https://github.com/oromaskevic23-cmd/CYBER-HAK-Public) | **TESTED** | Defensive reference exists on main; AuditShield v0.2 with 99 tests is open PR #1. |

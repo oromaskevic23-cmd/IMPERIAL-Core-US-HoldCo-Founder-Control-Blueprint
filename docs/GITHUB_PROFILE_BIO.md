@@ -7,7 +7,7 @@ Company: **IMPERIAL Core**
 Location: **Ukraine**  
 Bio: `Founder • Owner • CEO of IMPERIAL Core | Architect | Governed AI agents, verified software engineering & autonomous digital systems`
 
-Founder • Owner • CEO of IMPERIAL Core. Architect / Final Architectural Decision Authority. HANTER — AI Command Center / Chief Systems.
+Founder • Owner • CEO of IMPERIAL Core. Architect / Final Architectural Decision Authority. HANTER — AI Command Center.
 
 The username profile repository was absent at the audit checkpoint. [Profile README](https://github.com/oromaskevic23-cmd/IMPERIAL-Core-Public/blob/main/profile/README.md) · [Full multilingual identity](https://github.com/oromaskevic23-cmd/IMPERIAL-Core-Public/blob/main/docs/FOUNDER_IDENTITY.md).
 
