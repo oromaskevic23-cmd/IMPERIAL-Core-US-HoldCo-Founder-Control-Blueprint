@@ -1,11 +1,12 @@
 # IMPERIAL Core — Universal NCA Digital Corporation & U.S. HoldCo Architecture
 
+**Architectural and legal planning for a proposed U.S. holding company and Universal NCA digital corporation.**
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/oromaskevic23-cmd/oromaskevic23-cmd/main/assets/alexander-romaskevich-portrait-20261110.jpg" alt="Alexander Nikolaevich Romaskevich, Founder, Owner and CEO of IMPERIAL Core" width="160" />
 </p>
 
 **Founding architect:** Alexander Nikolaevich Romaskevich (RomaskevicH). [Authorship](AUTHORS.md) · [License review](governance/LICENSE_INVENTORY.md).
-
 
 **Founder:** Alexander Romaskevich (RomaskevicH)  
 **Documentation checkpoint:** 2026-10-24  
